@@ -1,0 +1,5700 @@
+[
+  {
+    "id": 1,
+    "question": "What is the primary goal of integrating science, religion, and spirituality?",
+    "options": {
+      "A": "To promote economic growth",
+      "B": "To achieve world peace",
+      "C": "To create advanced technologies",
+      "D": "To dominate the world"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 2,
+    "question": "What does 'Vasudhaiva Kutumbakam' emphasize?",
+    "options": {
+      "A": "Division among nations",
+      "B": "Global unity as one family",
+      "C": "Competition between cultures",
+      "D": "Pursuit of wealth"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 3,
+    "question": "What is the primary focus of science as described in the material?",
+    "options": {
+      "A": "Exploring subjective experiences",
+      "B": "Understanding physical reality through evidence",
+      "C": "Seeking moral truths",
+      "D": "Interpreting religious doctrines"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 4,
+    "question": "What is spirituality primarily concerned with?",
+    "options": {
+      "A": "Material wealth",
+      "B": "Physical fitness",
+      "C": "Inner self and existential questions",
+      "D": "Scientific experimentation"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 5,
+    "question": "Which term refers to the belief that science alone can solve all human problems?",
+    "options": {
+      "A": "Scientism",
+      "B": "Empiricism",
+      "C": "Reductionism",
+      "D": "Spiritualism"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 6,
+    "question": "Which ancient Indian concept advocates treating the entire world as a single family?",
+    "options": {
+      "A": "Dharma",
+      "B": "Vasudhaiva Kutumbakam",
+      "C": "Karma",
+      "D": "Ahimsa"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 7,
+    "question": "What does the concept of 'Value-Based Education' aim to promote?",
+    "options": {
+      "A": "Wealth accumulation",
+      "B": "Materialism",
+      "C": "Ethics and social responsibility",
+      "D": "Religious dominance"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 8,
+    "question": "Which of the following is NOT a goal of value-based education?",
+    "options": {
+      "A": "Academic success",
+      "B": "Social harmony",
+      "C": "Spiritual awareness",
+      "D": "Blind adherence to rules"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 9,
+    "question": "Who is the founder of the World Peace Dome in Pune?",
+    "options": {
+      "A": "Dr. A.P.J. Abdul Kalam",
+      "B": "Dr. Vishwanath Karad",
+      "C": "Mahatma Gandhi",
+      "D": "Swami Vivekananda"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 10,
+    "question": "What is the significance of the World Peace Dome?",
+    "options": {
+      "A": "It symbolizes interfaith harmony",
+      "B": "It commemorates the Indian freedom struggle",
+      "C": "It is a scientific research center",
+      "D": "It houses India's Constitution"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 11,
+    "question": "In which year did Swami Vivekananda deliver his famous Chicago speech?",
+    "options": {
+      "A": "1890",
+      "B": "1893",
+      "C": "1902",
+      "D": "1910"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 12,
+    "question": "What was the primary message of Swami Vivekananda’s Chicago speech?",
+    "options": {
+      "A": "The superiority of Hinduism",
+      "B": "The unity of all religions",
+      "C": "The importance of scientific progress",
+      "D": "Rejection of Western culture"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 13,
+    "question": "Who was Swami Vivekananda's spiritual teacher?",
+    "options": {
+      "A": "Ramana Maharshi",
+      "B": "Sri Ramakrishna",
+      "C": "Adi Shankaracharya",
+      "D": "Paramahansa Yogananda"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 14,
+    "question": "What institution did Swami Vivekananda establish to spread his teachings?",
+    "options": {
+      "A": "Arya Samaj",
+      "B": "Ramakrishna Mission",
+      "C": "Brahmo Samaj",
+      "D": "Theosophical Society"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 15,
+    "question": "What philosophy did Swami Vivekananda promote extensively?",
+    "options": {
+      "A": "Materialism",
+      "B": "Vedanta",
+      "C": "Scientism",
+      "D": "Atheism"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 16,
+    "question": "What did Swami Vivekananda emphasize in education?",
+    "options": {
+      "A": "Accumulation of wealth",
+      "B": "Unity of Eastern spirituality and Western progress",
+      "C": "Blind adherence to rituals",
+      "D": "Isolation from the global world"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 17,
+    "question": "Which value did Swami Vivekananda stress for personal and national development?",
+    "options": {
+      "A": "Strength-giving and man-making religion",
+      "B": "Accumulation of power",
+      "C": "Political domination",
+      "D": "Industrialization"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 18,
+    "question": "What was Swami Vivekananda’s vision for India’s spiritual heritage?",
+    "options": {
+      "A": "To abandon traditional practices",
+      "B": "To integrate it with the modern world",
+      "C": "To keep it isolated from external influences",
+      "D": "To limit it to religious communities"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 19,
+    "question": "Which spiritual text did Swami Vivekananda extensively interpret?",
+    "options": {
+      "A": "Vedas",
+      "B": "Bhagavad Gita",
+      "C": "Bible",
+      "D": "Quran"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 20,
+    "question": "What was Swami Vivekananda’s view on service?",
+    "options": {
+      "A": "It is unnecessary in spirituality",
+      "B": "Service to man is service to God",
+      "C": "It should only be extended to the wealthy",
+      "D": "It contradicts self-realization"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 21,
+    "question": "Who is the author of the Mahabharata?",
+    "options": {
+      "A": "Valmiki",
+      "B": "Vyasa",
+      "C": "Tulsidas",
+      "D": "Kalidasa"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 22,
+    "question": "What is the Ramayana often referred to as?",
+    "options": {
+      "A": "The first kavya (adi-kavya)",
+      "B": "The greatest drama",
+      "C": "The oldest scientific text",
+      "D": "The treatise on war"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 23,
+    "question": "What does the Ramayana teach about?",
+    "options": {
+      "A": "The pursuit of wealth",
+      "B": "The ideals of duty and morality",
+      "C": "Strategies for war",
+      "D": "Techniques of governance"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 24,
+    "question": "Which character in the Ramayana represents ideal devotion?",
+    "options": {
+      "A": "Bharata",
+      "B": "Hanuman",
+      "C": "Lakshmana",
+      "D": "Ravana"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 25,
+    "question": "What is the primary theme of the Bhagavad Gita?",
+    "options": {
+      "A": "Material success",
+      "B": "Detachment while performing one’s duties",
+      "C": "Complete renunciation of action",
+      "D": "Worship of deities"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 26,
+    "question": "Who is the charioteer and guide in the Bhagavad Gita?",
+    "options": {
+      "A": "Dronacharya",
+      "B": "Krishna",
+      "C": "Bhishma",
+      "D": "Karna"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 27,
+    "question": "Which war forms the setting for the Mahabharata?",
+    "options": {
+      "A": "Kurukshetra War",
+      "B": "Lanka War",
+      "C": "Trojan War",
+      "D": "Kalinga War"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 28,
+    "question": "Who is the central protagonist of the Ramayana?",
+    "options": {
+      "A": "Krishna",
+      "B": "Rama",
+      "C": "Bhishma",
+      "D": "Arjuna"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 29,
+    "question": "What lesson does Sita’s character teach in the Ramayana?",
+    "options": {
+      "A": "Greed leads to downfall",
+      "B": "Devotion and steadfastness in adversity",
+      "C": "Pursuit of power",
+      "D": "Manipulation of others"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 30,
+    "question": "Which sage is traditionally regarded as the author of the Ramayana?",
+    "options": {
+      "A": "Vyasa",
+      "B": "Valmiki",
+      "C": "Vishwamitra",
+      "D": "Agastya"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 31,
+    "question": "What is the meaning of ‘Vasudhaiva Kutumbakam’?",
+    "options": {
+      "A": "Non-violence is supreme",
+      "B": "The world is one family",
+      "C": "Unity in diversity",
+      "D": "Love is eternal"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 32,
+    "question": "Who introduced the concept of universal brotherhood at the global stage?",
+    "options": {
+      "A": "Rabindranath Tagore",
+      "B": "Swami Vivekananda",
+      "C": "Mahatma Gandhi",
+      "D": "Sri Ramakrishna"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 33,
+    "question": "What does universal brotherhood emphasize?",
+    "options": {
+      "A": "Acceptance of differences",
+      "B": "Enforcement of uniformity",
+      "C": "Rejection of diversity",
+      "D": "Supremacy of one culture"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 34,
+    "question": "What does the concept of universal brotherhood warn against?",
+    "options": {
+      "A": "Religious tolerance",
+      "B": "Egoism and selfishness",
+      "C": "Global collaboration",
+      "D": "Educational reforms"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 35,
+    "question": "When is Universal Brotherhood Day celebrated?",
+    "options": {
+      "A": "January 26",
+      "B": "September 11",
+      "C": "October 2",
+      "D": "December 25"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 36,
+    "question": "Which ancient philosophy aligns closely with universal brotherhood?",
+    "options": {
+      "A": "Advaita Vedanta",
+      "B": "Dvaita philosophy",
+      "C": "Charvaka philosophy",
+      "D": "Sankhya philosophy"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 37,
+    "question": "What values are essential for achieving universal brotherhood?",
+    "options": {
+      "A": "Tolerance and mutual respect",
+      "B": "Competition and dominance",
+      "C": "Isolation and self-interest",
+      "D": "Rejection of other cultures"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 38,
+    "question": "Which religious leader’s teachings emphasize the fatherhood of God and brotherhood of man?",
+    "options": {
+      "A": "Swami Vivekananda",
+      "B": "Guru Nanak",
+      "C": "Mahatma Gandhi",
+      "D": "Dr. B.R. Ambedkar"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 39,
+    "question": "What is the ultimate goal of universal brotherhood?",
+    "options": {
+      "A": "To create a utopian society",
+      "B": "To build global unity and peace",
+      "C": "To establish cultural superiority",
+      "D": "To accumulate wealth collectively"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 40,
+    "question": "Which value is central to fostering universal brotherhood?",
+    "options": {
+      "A": "Wealth accumulation",
+      "B": "Ethical conduct and compassion",
+      "C": "Technological advancement",
+      "D": "Strict religious adherence"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 41,
+    "question": "What is Swami Vivekananda’s birth name?",
+    "options": {
+      "A": "Narendra Nath Datta",
+      "B": "Ramakrishna Paramahamsa",
+      "C": "Vishwanath Karad",
+      "D": "Tulsidas Sharma"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 42,
+    "question": "Where did Swami Vivekananda first meet his spiritual teacher, Sri Ramakrishna?",
+    "options": {
+      "A": "Belur Math",
+      "B": "Dakshineswar Kali Temple",
+      "C": "Kanyakumari",
+      "D": "Chicago"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 43,
+    "question": "What was Swami Vivekananda’s main focus for societal development?",
+    "options": {
+      "A": "Economic progress",
+      "B": "Political reforms",
+      "C": "Spiritual awakening and education",
+      "D": "Technological advancements"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 44,
+    "question": "What inspired Swami Vivekananda to attend the World Parliament of Religions?",
+    "options": {
+      "A": "His desire for fame",
+      "B": "His vision to spread Indian spirituality worldwide",
+      "C": "A request from his disciples",
+      "D": "An invitation from Western scholars"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 45,
+    "question": "Which institution did Swami Vivekananda establish in 1897?",
+    "options": {
+      "A": "Arya Samaj",
+      "B": "Ramakrishna Mission",
+      "C": "World Peace Center",
+      "D": "Brahmo Samaj"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 46,
+    "question": "What was the key philosophy of Swami Vivekananda’s teachings?",
+    "options": {
+      "A": "Individualism",
+      "B": "Service to humanity as worship to God",
+      "C": "Ritualism",
+      "D": "Wealth accumulation"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 47,
+    "question": "How did Swami Vivekananda describe religion?",
+    "options": {
+      "A": "As a set of dogmas",
+      "B": "As the realization of divinity within",
+      "C": "As a tool for social control",
+      "D": "As rituals and ceremonies"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 48,
+    "question": "Which text did Swami Vivekananda extensively explain in the West?",
+    "options": {
+      "A": "The Bible",
+      "B": "The Quran",
+      "C": "The Bhagavad Gita",
+      "D": "The Vedas"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 49,
+    "question": "What was Swami Vivekananda’s role in reviving Hinduism?",
+    "options": {
+      "A": "Advocating its superiority over other religions",
+      "B": "Promoting its spiritual and universal values",
+      "C": "Rejecting modern influences",
+      "D": "Isolating it from the world"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 50,
+    "question": "What does Swami Vivekananda’s quote, “Arise, awake and stop not till the goal is reached,” emphasize?",
+    "options": {
+      "A": "Perseverance and self-improvement",
+      "B": "Immediate success without effort",
+      "C": "Material accumulation",
+      "D": "Avoidance of challenges"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 51,
+    "question": "Who is the speaker of the Bhagavad Gita?",
+    "options": {
+      "A": "Arjuna",
+      "B": "Krishna",
+      "C": "Bhishma",
+      "D": "Vyasa"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 52,
+    "question": "What is the setting of the Bhagavad Gita?",
+    "options": {
+      "A": "Ayodhya",
+      "B": "Kurukshetra battlefield",
+      "C": "Lanka",
+      "D": "Mathura"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 53,
+    "question": "What is the core message of the Bhagavad Gita?",
+    "options": {
+      "A": "Detachment from worldly things",
+      "B": "Service to humanity",
+      "C": "Detachment while performing one’s duties",
+      "D": "Ritualistic worship"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 54,
+    "question": "What does the Bhagavad Gita emphasize about the soul?",
+    "options": {
+      "A": "The soul is impermanent",
+      "B": "The soul is eternal and cannot be destroyed",
+      "C": "The soul is the source of all material wealth",
+      "D": "The soul is bound by karma"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 55,
+    "question": "Which of the following is NOT one of the yogas described in the Bhagavad Gita?",
+    "options": {
+      "A": "Bhakti Yoga",
+      "B": "Karma Yoga",
+      "C": "Jnana Yoga",
+      "D": "Sadhana Yoga"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 56,
+    "question": "Which path in the Bhagavad Gita emphasizes devotion to a personal deity?",
+    "options": {
+      "A": "Karma Yoga",
+      "B": "Jnana Yoga",
+      "C": "Bhakti Yoga",
+      "D": "Raja Yoga"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 57,
+    "question": "What does ‘Karma Yoga’ advocate?",
+    "options": {
+      "A": "Detachment from work",
+      "B": "Selfless action without attachment to results",
+      "C": "Exclusive devotion to God",
+      "D": "Knowledge of the self"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 58,
+    "question": "In the Bhagavad Gita, who advises Arjuna to perform his duty?",
+    "options": {
+      "A": "Vyasa",
+      "B": "Krishna",
+      "C": "Bhishma",
+      "D": "Dronacharya"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 59,
+    "question": "Which of the following is a central concept in the Bhagavad Gita’s teachings?",
+    "options": {
+      "A": "Renunciation of all work",
+      "B": "Importance of material success",
+      "C": "Performing one’s duties without attachment to outcomes",
+      "D": "Superiority of one’s religion over others"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 60,
+    "question": "Which yoga emphasizes the pursuit of knowledge and wisdom?",
+    "options": {
+      "A": "Karma Yoga",
+      "B": "Bhakti Yoga",
+      "C": "Jnana Yoga",
+      "D": "Raja Yoga"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 61,
+    "question": "What did Lord Krishna advise Arjuna about his fears regarding the war?",
+    "options": {
+      "A": "To avoid the battle altogether",
+      "B": "To seek forgiveness from the enemy",
+      "C": "To recognize that his soul is immortal",
+      "D": "To fight only for his personal gain"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 62,
+    "question": "What does 'AUM' symbolize in Hindu philosophy?",
+    "options": {
+      "A": "Material wealth",
+      "B": "The sound of the universe",
+      "C": "Ultimate reality and creation",
+      "D": "The eternal soul"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 63,
+    "question": "According to Hinduism, who is the ultimate reality?",
+    "options": {
+      "A": "Vishnu",
+      "B": "Shiva",
+      "C": "Brahman",
+      "D": "Krishna"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 64,
+    "question": "What is the essence of the concept of 'Atman' in Hinduism?",
+    "options": {
+      "A": "The physical body",
+      "B": "The eternal soul",
+      "C": "The material world",
+      "D": "The duties in life"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 65,
+    "question": "What does 'Advaita Vedanta' teach?",
+    "options": {
+      "A": "There are multiple gods controlling the universe",
+      "B": "The belief in a creator god who controls everything",
+      "C": "The ultimate truth is the oneness of the individual soul and Brahman",
+      "D": "The soul is subject to eternal reincarnation"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 66,
+    "question": "Which of the following does not align with the teachings of Vedanta?",
+    "options": {
+      "A": "The soul is eternal and unchanging",
+      "B": "God is a separate entity from creation",
+      "C": "The ultimate reality is non-dual",
+      "D": "The physical world is an illusion"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 67,
+    "question": "What is the primary focus of Bhakti Yoga?",
+    "options": {
+      "A": "Knowledge and self-realization",
+      "B": "Selfless action",
+      "C": "Meditation and concentration",
+      "D": "Love and devotion to God"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 68,
+    "question": "Which of the following is the best description of 'Jnana Yoga'?",
+    "options": {
+      "A": "Path of knowledge and wisdom",
+      "B": "Path of physical discipline and strength",
+      "C": "Path of devotion and surrender",
+      "D": "Path of renunciation and withdrawal from the world"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 69,
+    "question": "What does 'Karma' refer to in Hindu philosophy?",
+    "options": {
+      "A": "The practice of meditation",
+      "B": "Rituals for prosperity",
+      "C": "Actions and their consequences",
+      "D": "The path to liberation"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 70,
+    "question": "What is the purpose of meditation in Hinduism?",
+    "options": {
+      "A": "To escape from society",
+      "B": "To achieve material wealth",
+      "C": "To attain self-realization and union with the divine",
+      "D": "To control the physical world"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 71,
+    "question": "What is 'Moksha' in Hinduism?",
+    "options": {
+      "A": "The accumulation of wealth",
+      "B": "The state of liberation from the cycle of rebirth",
+      "C": "The performance of rituals",
+      "D": "The enjoyment of worldly pleasures"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 72,
+    "question": "Who founded MIT World Peace University?",
+    "options": {
+      "A": "Dr. Vishwanath Karad",
+      "B": "Swami Vivekananda",
+      "C": "Dr. B.R. Ambedkar",
+      "D": "Mahatma Gandhi"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 73,
+    "question": "What is the World Peace Dome dedicated to?",
+    "options": {
+      "A": "Scientific advancements",
+      "B": "World peace and interfaith harmony",
+      "C": "Hindu philosophy",
+      "D": "Educational reform"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 74,
+    "question": "Where is the World Peace Dome located?",
+    "options": {
+      "A": "Delhi",
+      "B": "Mumbai",
+      "C": "Pune",
+      "D": "Kolkata"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 75,
+    "question": "Which of the following is a key feature of the MIT World Peace University campus?",
+    "options": {
+      "A": "It is an industrial hub",
+      "B": "It integrates modern education with traditional values",
+      "C": "It focuses solely on technology",
+      "D": "It specializes in medical research"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 76,
+    "question": "What is the philosophy behind Prof. Dr. Vishwanath Karad’s educational initiatives?",
+    "options": {
+      "A": "Materialism and consumerism",
+      "B": "Spirituality and scientific knowledge",
+      "C": "Isolation of cultures",
+      "D": "Political and economic domination"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 77,
+    "question": "Which monument symbolizes interfaith harmony in India, built by Prof. Karad?",
+    "options": {
+      "A": "Ramakrishna Mission",
+      "B": "World Peace Dome",
+      "C": "Belur Math",
+      "D": "Lotus Temple"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 78,
+    "question": "What is the objective of the World Peace Dome?",
+    "options": {
+      "A": "To promote technological advancements",
+      "B": "To foster interfaith dialogue and unity",
+      "C": "To honor historical figures",
+      "D": "To create religious conflict"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 79,
+    "question": "Which of the following is NOT a feature of Vishwaraj Baug?",
+    "options": {
+      "A": "A center for spiritual learning",
+      "B": "A place for interfaith dialogue",
+      "C": "A commercial marketplace",
+      "D": "A tranquil environment for meditation"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 80,
+    "question": "Which style of architecture does the Bhagwan Gautam Buddha Vihar follow?",
+    "options": {
+      "A": "Gothic style",
+      "B": "Japanese Pagoda style",
+      "C": "Victorian style",
+      "D": "Romanesque style"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 81,
+    "question": "What message does the Vishwadharmi Shriram-Rahim Manavta Setu convey?",
+    "options": {
+      "A": "Political unity",
+      "B": "Unity between different faiths",
+      "C": "Economic progress",
+      "D": "Social class distinctions"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 82,
+    "question": "What is 'Dhyana Yoga'?",
+    "options": {
+      "A": "The path of devotion",
+      "B": "The path of knowledge",
+      "C": "The path of meditation",
+      "D": "The path of selfless action"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 83,
+    "question": "What does 'Jnana Yoga' focus on?",
+    "options": {
+      "A": "Devotion to a deity",
+      "B": "Selfless service",
+      "C": "Knowledge and wisdom",
+      "D": "Physical fitness"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 84,
+    "question": "In Hindu philosophy, which concept represents the ultimate reality?",
+    "options": {
+      "A": "Atman",
+      "B": "Brahman",
+      "C": "Karma",
+      "D": "Moksha"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 85,
+    "question": "What is the goal of 'Karma Yoga'?",
+    "options": {
+      "A": "Achieving material success",
+      "B": "Performing actions selflessly without attachment to outcomes",
+      "C": "Complete renunciation of work",
+      "D": "Attaining mystical powers"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 86,
+    "question": "Which type of yoga involves selfless action without expectation of rewards?",
+    "options": {
+      "A": "Bhakti Yoga",
+      "B": "Karma Yoga",
+      "C": "Jnana Yoga",
+      "D": "Raja Yoga"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 87,
+    "question": "What does ‘Nishkama Karma’ refer to?",
+    "options": {
+      "A": "Action performed with selfish desires",
+      "B": "Action performed without attachment to results",
+      "C": "Renunciation of all worldly actions",
+      "D": "Inaction in the face of challenges"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 88,
+    "question": "Which of the following is a central tenet of the 'Bhakti Yoga' philosophy?",
+    "options": {
+      "A": "Knowledge through study",
+      "B": "Physical strength and discipline",
+      "C": "Devotion and surrender to a personal god",
+      "D": "Self-discipline and control over emotions"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 89,
+    "question": "What is the ultimate goal of 'Moksha' in Hinduism?",
+    "options": {
+      "A": "Acquisition of wealth",
+      "B": "Attaining liberation from the cycle of rebirth",
+      "C": "Ascension to heaven",
+      "D": "Dominating the material world"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 90,
+    "question": "What is the practice of ‘Dhyana’ aimed at?",
+    "options": {
+      "A": "Material gain",
+      "B": "Physical relaxation",
+      "C": "Spiritual awakening and concentration",
+      "D": "Intellectual achievement"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 91,
+    "question": "What is the Bhagavad Gita’s view on attachment?",
+    "options": {
+      "A": "Attachment is the ultimate goal of life",
+      "B": "Attachment should be completely avoided",
+      "C": "Attachment to duty without selfish desires is acceptable",
+      "D": "Attachment is not discussed"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 92,
+    "question": "Which of the following is the primary text for the philosophy of Advaita Vedanta?",
+    "options": {
+      "A": "Bhagavad Gita",
+      "B": "Upanishads",
+      "C": "Ramayana",
+      "D": "Mahabharata"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 93,
+    "question": "Which concept in Hindu philosophy teaches that the self (Atman) is identical with the supreme reality (Brahman)?",
+    "options": {
+      "A": "Sankhya",
+      "B": "Advaita Vedanta",
+      "C": "Yoga",
+      "D": "Bhakti"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 94,
+    "question": "What does the term ‘Maya’ refer to in Hindu philosophy?",
+    "options": {
+      "A": "The ultimate reality",
+      "B": "The illusion of the material world",
+      "C": "The eternal soul",
+      "D": "The process of meditation"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 95,
+    "question": "What role does meditation play in Hinduism?",
+    "options": {
+      "A": "It is a method for seeking wealth",
+      "B": "It is a path to spiritual liberation",
+      "C": "It is used for improving physical health",
+      "D": "It helps in material success"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 96,
+    "question": "Which of the following best describes 'Moksha' in Hinduism?",
+    "options": {
+      "A": "Reincarnation",
+      "B": "Liberation from the cycle of rebirth",
+      "C": "Achievement of wealth",
+      "D": "Victory in war"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 97,
+    "question": "Which of the following is NOT one of the four main goals of life (Purusharthas) in Hinduism?",
+    "options": {
+      "A": "Dharma (righteousness)",
+      "B": "Artha (prosperity)",
+      "C": "Moksha (liberation)",
+      "D": "Shakti (power)"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 98,
+    "question": "What is the central message of the Upanishads?",
+    "options": {
+      "A": "The pursuit of wealth",
+      "B": "The nature of reality and self-realization",
+      "C": "The importance of rituals",
+      "D": "The practice of meditation alone"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 99,
+    "question": "What concept does the term 'Dharma' primarily refer to in Hinduism?",
+    "options": {
+      "A": "Fate",
+      "B": "Duty and righteousness",
+      "C": "Religious rituals",
+      "D": "Physical strength"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 100,
+    "question": "What is the significance of ‘Aarti’ in Hinduism?",
+    "options": {
+      "A": "It is a method of meditation",
+      "B": "It is a form of prayer and worship using light",
+      "C": "It is a dietary practice",
+      "D": "It is a form of yoga"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 101,
+    "question": "Which of the following is a primary Hindu practice for attaining spiritual knowledge?",
+    "options": {
+      "A": "Physical exercise",
+      "B": "Chanting mantras",
+      "C": "Trading",
+      "D": "Avoiding social contact"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 102,
+    "question": "In which of the following Hindu temples is the worship of Goddess Durga primarily observed?",
+    "options": {
+      "A": "Kashi Vishwanath",
+      "B": "Kamakhya Temple",
+      "C": "Somnath Temple",
+      "D": "Golden Temple"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 103,
+    "question": "What is the purpose of performing ‘Yajnas’ in Hinduism?",
+    "options": {
+      "A": "To gain material wealth",
+      "B": "To maintain the cosmic order through rituals",
+      "C": "To engage in meditation",
+      "D": "To attain political power"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 104,
+    "question": "What does ‘Puja’ refer to in Hindu religious practices?",
+    "options": {
+      "A": "A religious pilgrimage",
+      "B": "A form of ritual worship",
+      "C": "A type of philosophical study",
+      "D": "A public lecture"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 105,
+    "question": "Which of the following practices is commonly associated with the festival of Diwali?",
+    "options": {
+      "A": "Fasting",
+      "B": "Lighting oil lamps (diyas)",
+      "C": "Pilgrimages to sacred rivers",
+      "D": "Asceticism"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 106,
+    "question": "Which Hindu text is often read aloud during important rituals such as weddings?",
+    "options": {
+      "A": "Bhagavad Gita",
+      "B": "Ramayana",
+      "C": "Vedas",
+      "D": "Upanishads"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 107,
+    "question": "What is the role of a Guru in Hinduism?",
+    "options": {
+      "A": "To provide material wealth",
+      "B": "To guide spiritual growth and knowledge",
+      "C": "To organize festivals",
+      "D": "To engage in political activities"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 108,
+    "question": "What does ‘Satsang’ mean in Hinduism?",
+    "options": {
+      "A": "Community service",
+      "B": "Gathering for spiritual discourse",
+      "C": "Fasting for spiritual purification",
+      "D": "Performing religious rituals"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 109,
+    "question": "What is ‘Vrata’ in Hinduism?",
+    "options": {
+      "A": "A ritual offering to the deities",
+      "B": "A period of fasting or religious observance",
+      "C": "A philosophical text",
+      "D": "A type of yoga posture"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 110,
+    "question": "Which of the following is the Hindu god of destruction and regeneration?",
+    "options": {
+      "A": "Vishnu",
+      "B": "Shiva",
+      "C": "Brahma",
+      "D": "Ganesha"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 111,
+    "question": "Which Hindu god is known as the preserver of the universe?",
+    "options": {
+      "A": "Shiva",
+      "B": "Vishnu",
+      "C": "Brahma",
+      "D": "Indra"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 112,
+    "question": "What is the vehicle (Vahana) of Lord Ganesha?",
+    "options": {
+      "A": "Elephant",
+      "B": "Mouse",
+      "C": "Peacock",
+      "D": "Tiger"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 113,
+    "question": "Which Hindu deity is associated with knowledge and wisdom?",
+    "options": {
+      "A": "Lakshmi",
+      "B": "Saraswati",
+      "C": "Parvati",
+      "D": "Ganesha"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 114,
+    "question": "Which of the following is the consort of Lord Vishnu?",
+    "options": {
+      "A": "Parvati",
+      "B": "Durga",
+      "C": "Lakshmi",
+      "D": "Radha"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 115,
+    "question": "Who is considered the father of Lord Ganesha?",
+    "options": {
+      "A": "Shiva",
+      "B": "Vishnu",
+      "C": "Brahma",
+      "D": "Indra"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 116,
+    "question": "Which of the following is associated with the destruction of evil in Hindu mythology?",
+    "options": {
+      "A": "Vishnu’s incarnations",
+      "B": "Shiva’s tandava",
+      "C": "Lakshmi’s blessings",
+      "D": "Brahma’s creation of the world"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 117,
+    "question": "Who is the supreme deity in the concept of the Trimurti in Hinduism?",
+    "options": {
+      "A": "Shiva",
+      "B": "Vishnu",
+      "C": "Brahma",
+      "D": "All are equal"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 118,
+    "question": "Who is the goddess of wealth in Hinduism?",
+    "options": {
+      "A": "Saraswati",
+      "B": "Lakshmi",
+      "C": "Durga",
+      "D": "Parvati"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 119,
+    "question": "Which Hindu god is depicted with multiple arms and is known as the remover of obstacles?",
+    "options": {
+      "A": "Vishnu",
+      "B": "Shiva",
+      "C": "Ganesha",
+      "D": "Brahma"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 120,
+    "question": "Who is considered the first teacher of humanity according to Hindu tradition?",
+    "options": {
+      "A": "Krishna",
+      "B": "Shiva",
+      "C": "Brahma",
+      "D": "Adi Shankaracharya"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 121,
+    "question": "Which demon did Lord Rama defeat in the Ramayana?",
+    "options": {
+      "A": "Ravana",
+      "B": "Kumbhakarna",
+      "C": "Vibhishana",
+      "D": "Surpanakha"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 122,
+    "question": "What does the term 'Yuga' refer to in Hinduism?",
+    "options": {
+      "A": "The soul's journey after death",
+      "B": "A period or era in the cosmic cycle",
+      "C": "A specific Hindu festival",
+      "D": "The creation of the universe"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 123,
+    "question": "Who was the mother of Pandavas in the Mahabharata?",
+    "options": {
+      "A": "Draupadi",
+      "B": "Kunti",
+      "C": "Gandhari",
+      "D": "Satyavati"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 124,
+    "question": "What role did Hanuman play in the Ramayana?",
+    "options": {
+      "A": "A king of Lanka",
+      "B": "The son of Lord Shiva",
+      "C": "A loyal devotee and servant of Lord Rama",
+      "D": "A great sage who guided Lord Rama"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 125,
+    "question": "Which of the following is the primary sacred text in Hinduism?",
+    "options": {
+      "A": "Quran",
+      "B": "Bible",
+      "C": "Vedas",
+      "D": "Torah"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 126,
+    "question": "What is the name of the demon that Lord Vishnu defeated in his incarnation as Narasimha?",
+    "options": {
+      "A": "Ravana",
+      "B": "Hiranyakashipu",
+      "C": "Kamsa",
+      "D": "Banasura"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 127,
+    "question": "Which river is considered sacred in Hinduism and is worshipped as a goddess?",
+    "options": {
+      "A": "Ganges",
+      "B": "Yamuna",
+      "C": "Saraswati",
+      "D": "Godavari"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 128,
+    "question": "Who are the Pandavas in the Mahabharata?",
+    "options": {
+      "A": "The children of Lord Krishna",
+      "B": "The cousins of Lord Rama",
+      "C": "The five sons of King Pandu",
+      "D": "The brothers of Lord Vishnu"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 129,
+    "question": "What is the name of the demon who was defeated by Lord Vishnu in his incarnation as Vamana?",
+    "options": {
+      "A": "Ravana",
+      "B": "Bali",
+      "C": "Kamsa",
+      "D": "Banasura"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 130,
+    "question": "Which Hindu festival is known as the festival of lights?",
+    "options": {
+      "A": "Holi",
+      "B": "Diwali",
+      "C": "Raksha Bandhan",
+      "D": "Navratri"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 131,
+    "question": "Which of the following Hindu festivals celebrates the victory of good over evil?",
+    "options": {
+      "A": "Holi",
+      "B": "Diwali",
+      "C": "Makar Sankranti",
+      "D": "Maha Shivaratri"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 132,
+    "question": "Which festival is dedicated to Lord Shiva and is observed with fasting and prayer by his devotees?",
+    "options": {
+      "A": "Diwali",
+      "B": "Maha Shivaratri",
+      "C": "Navratri",
+      "D": "Raksha Bandhan"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 133,
+    "question": "What is the primary significance of the festival of Holi?",
+    "options": {
+      "A": "The harvest season",
+      "B": "The beginning of the new year",
+      "C": "The celebration of the arrival of spring and the triumph of good over evil",
+      "D": "The worship of Lord Vishnu"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 134,
+    "question": "Which festival marks the birth of Lord Krishna?",
+    "options": {
+      "A": "Holi",
+      "B": "Raksha Bandhan",
+      "C": "Janmashtami",
+      "D": "Karva Chauth"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 135,
+    "question": "Which of the following is the major ritual in the festival of Navratri?",
+    "options": {
+      "A": "Fasting",
+      "B": "Lighting oil lamps",
+      "C": "Reciting mantras",
+      "D": "Dancing and singing"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 136,
+    "question": "What does the festival of Ganesh Chaturthi celebrate?",
+    "options": {
+      "A": "The birth of Lord Ganesha",
+      "B": "The victory of Lord Rama",
+      "C": "The marriage of Lord Shiva and Parvati",
+      "D": "The creation of the world"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 137,
+    "question": "During which festival do Hindus traditionally fast and observe prayers for the well-being of their husbands?",
+    "options": {
+      "A": "Diwali",
+      "B": "Karva Chauth",
+      "C": "Holi",
+      "D": "Makar Sankranti"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 138,
+    "question": "Which Hindu festival celebrates the victory of Durga over the buffalo demon Mahishasura?",
+    "options": {
+      "A": "Diwali",
+      "B": "Navratri",
+      "C": "Durga Puja",
+      "D": "Ganesh Chaturthi"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 139,
+    "question": "What is traditionally done during the ritual of 'Kundalini Yoga'?",
+    "options": {
+      "A": "Lighting oil lamps",
+      "B": "Chanting mantras for spiritual awakening",
+      "C": "Dancing in a group",
+      "D": "Practicing self-restraint and fasting"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 140,
+    "question": "What does 'Karma' refer to in Hindu philosophy?",
+    "options": {
+      "A": "Reincarnation",
+      "B": "Good and bad actions and their consequences",
+      "C": "The supreme god",
+      "D": "The law of attraction"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 141,
+    "question": "Which of the following is considered a major text of Hindu philosophy?",
+    "options": {
+      "A": "Quran",
+      "B": "Bhagavad Gita",
+      "C": "Bible",
+      "D": "Torah"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 142,
+    "question": "What is the goal of the practice of ‘Dharma’ in Hinduism?",
+    "options": {
+      "A": "Achieving material wealth",
+      "B": "Fulfilling one’s ethical duties",
+      "C": "Attaining spiritual enlightenment",
+      "D": "Building a political empire"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 143,
+    "question": "Which Hindu deity is associated with the practice of meditation and yoga?",
+    "options": {
+      "A": "Vishnu",
+      "B": "Brahma",
+      "C": "Shiva",
+      "D": "Lakshmi"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 144,
+    "question": "What does the term 'Atman' represent in Hindu philosophy?",
+    "options": {
+      "A": "The Supreme God",
+      "B": "The soul or self",
+      "C": "The material world",
+      "D": "A celestial body"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 145,
+    "question": "Which sacred river is central to Hinduism and regarded as purifying?",
+    "options": {
+      "A": "Yamuna",
+      "B": "Ganges",
+      "C": "Godavari",
+      "D": "Brahmaputra"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 146,
+    "question": "What is the concept of ‘Samsara’ in Hinduism?",
+    "options": {
+      "A": "The cycle of birth, death, and rebirth",
+      "B": "The final liberation",
+      "C": "The physical world",
+      "D": "The journey of the soul"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 147,
+    "question": "What does the Hindu concept of ‘Ahimsa’ mean?",
+    "options": {
+      "A": "Knowledge of self",
+      "B": "Non-violence",
+      "C": "The ultimate goal of life",
+      "D": "Devotion to God"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 148,
+    "question": "Which practice in Hinduism is believed to lead to 'Moksha'?",
+    "options": {
+      "A": "Performing rituals",
+      "B": "Attaining wealth",
+      "C": "Devotion, meditation, and selfless action",
+      "D": "Rebirth"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 149,
+    "question": "Which Hindu philosophy emphasizes that the soul is one with the universe?",
+    "options": {
+      "A": "Advaita Vedanta",
+      "B": "Shaktism",
+      "C": "Samkhya",
+      "D": "Vaishnavism"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 150,
+    "question": "Which Hindu philosophy advocates that the ultimate reality is beyond human comprehension?",
+    "options": {
+      "A": "Advaita Vedanta",
+      "B": "Samkhya",
+      "C": "Yoga",
+      "D": "Vishishtadvaita"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 151,
+    "question": "Which of the following Hindu practices involves the offering of light to deities during worship?",
+    "options": {
+      "A": "Puja",
+      "B": "Yajna",
+      "C": "Aarti",
+      "D": "Bhajan"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 152,
+    "question": "Which ancient text in Hinduism discusses the three gunas (qualities) of nature?",
+    "options": {
+      "A": "Bhagavad Gita",
+      "B": "Vedas",
+      "C": "Upanishads",
+      "D": "Yoga Sutras"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 153,
+    "question": "Which Hindu god is known as the protector of the universe in the Puranas?",
+    "options": {
+      "A": "Vishnu",
+      "B": "Shiva",
+      "C": "Brahma",
+      "D": "Ganesha"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 154,
+    "question": "What concept in Hinduism describes the eternal cycle of birth, life, death, and rebirth?",
+    "options": {
+      "A": "Dharma",
+      "B": "Moksha",
+      "C": "Karma",
+      "D": "Samsara"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 155,
+    "question": "Which spiritual discipline is primarily concerned with controlling the mind and senses?",
+    "options": {
+      "A": "Bhakti Yoga",
+      "B": "Jnana Yoga",
+      "C": "Karma Yoga",
+      "D": "Raja Yoga"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 156,
+    "question": "Who is the mother of Lord Ganesha in Hindu mythology?",
+    "options": {
+      "A": "Lakshmi",
+      "B": "Parvati",
+      "C": "Saraswati",
+      "D": "Durga"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 157,
+    "question": "Which ancient text is considered the most authoritative in Vedantic philosophy?",
+    "options": {
+      "A": "Yoga Sutras",
+      "B": "Vedas",
+      "C": "Upanishads",
+      "D": "Bhagavad Gita"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 158,
+    "question": "Which Hindu festival celebrates the victory of light over darkness?",
+    "options": {
+      "A": "Holi",
+      "B": "Diwali",
+      "C": "Navratri",
+      "D": "Makar Sankranti"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 159,
+    "question": "Which Hindu epic contains the teachings of Lord Krishna to Arjuna?",
+    "options": {
+      "A": "Ramayana",
+      "B": "Mahabharata",
+      "C": "Bhagavad Gita",
+      "D": "Puranas"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 160,
+    "question": "Which one of the following is a key principle of the Hindu practice of meditation?",
+    "options": {
+      "A": "Fast-paced action",
+      "B": "Self-realization through stillness",
+      "C": "Striving for fame",
+      "D": "Accumulating knowledge through reading"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 161,
+    "question": "In Hinduism, which deity is known for his role in the destruction of the universe at the end of each cosmic cycle?",
+    "options": {
+      "A": "Brahma",
+      "B": "Vishnu",
+      "C": "Shiva",
+      "D": "Indra"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 162,
+    "question": "Which of the following is the Hindu term for \"the ultimate truth\" or \"absolute reality\"?",
+    "options": {
+      "A": "Karma",
+      "B": "Atman",
+      "C": "Brahman",
+      "D": "Dharma"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 163,
+    "question": "Which of the following practices is associated with reaching spiritual liberation in Hinduism?",
+    "options": {
+      "A": "Fasting and self-denial",
+      "B": "Meditation and self-awareness",
+      "C": "Performing physical rituals",
+      "D": "Acquiring material wealth"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 164,
+    "question": "What is the central theme of the teachings of the Bhagavad Gita?",
+    "options": {
+      "A": "Ultimate renunciation of the world",
+      "B": "The importance of knowledge and self-realization",
+      "C": "The rejection of all religions",
+      "D": "Selfless action and detachment from results"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 165,
+    "question": "What term describes the Hindu belief in the divine presence in all living beings?",
+    "options": {
+      "A": "Atman",
+      "B": "Bhagwan",
+      "C": "Dharma",
+      "D": "Krishna"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 166,
+    "question": "What is the Hindu concept of ‘Karma’?",
+    "options": {
+      "A": "The power to manifest reality",
+      "B": "Actions and their consequences",
+      "C": "Meditative enlightenment",
+      "D": "The path to liberation"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 167,
+    "question": "What is the importance of the Vedas in Hinduism?",
+    "options": {
+      "A": "They are the stories of gods",
+      "B": "They are the divine hymns and prayers",
+      "C": "They explain the physical creation of the world",
+      "D": "They are the laws governing society"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 168,
+    "question": "Which of the following is NOT considered a primary source of spiritual knowledge in Hinduism?",
+    "options": {
+      "A": "The Vedas",
+      "B": "The Upanishads",
+      "C": "The Puranas",
+      "D": "Scientific texts"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 169,
+    "question": "What does the term 'Dharma' represent in Hinduism?",
+    "options": {
+      "A": "The physical body",
+      "B": "The spiritual goal of life",
+      "C": "The righteous duty and ethical law",
+      "D": "The power of meditation"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 170,
+    "question": "Who is regarded as the founder of the Ramakrishna Mission?",
+    "options": {
+      "A": "Sri Ramakrishna",
+      "B": "Swami Vivekananda",
+      "C": "Maharishi Mahesh Yogi",
+      "D": "Swami Sivananda"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 171,
+    "question": "Which of the following was the first significant reformist movement in Hinduism?",
+    "options": {
+      "A": "Brahmo Samaj",
+      "B": "Arya Samaj",
+      "C": "Theosophical Society",
+      "D": "Ramakrishna Mission"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 172,
+    "question": "Which Hindu leader is known for his advocacy of non-violence and truth?",
+    "options": {
+      "A": "Subhas Chandra Bose",
+      "B": "Jawaharlal Nehru",
+      "C": "Mahatma Gandhi",
+      "D": "Sardar Patel"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 173,
+    "question": "What was the primary aim of the Arya Samaj?",
+    "options": {
+      "A": "To encourage caste discrimination",
+      "B": "To promote equality and reformation of Hindu society",
+      "C": "To spread Buddhism",
+      "D": "To expand military strength"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 174,
+    "question": "Which of the following is a significant teaching of Swami Vivekananda?",
+    "options": {
+      "A": "The unity of all religions",
+      "B": "The superiority of one religion over others",
+      "C": "Material progress over spiritual well-being",
+      "D": "The rejection of all traditions"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 175,
+    "question": "What does the concept of ‘Shakti’ refer to in Hinduism?",
+    "options": {
+      "A": "The supreme god",
+      "B": "The divine energy or power of the goddess",
+      "C": "The physical world",
+      "D": "The eternal soul"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 176,
+    "question": "Which Hindu tradition believes in the worship of the goddess as the supreme force?",
+    "options": {
+      "A": "Vaishnavism",
+      "B": "Shaktism",
+      "C": "Shaivism",
+      "D": "Buddhism"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 177,
+    "question": "What is the Hindu concept of ‘Sadhana’?",
+    "options": {
+      "A": "A ritual sacrifice",
+      "B": "A spiritual practice aimed at self-realization",
+      "C": "A form of social service",
+      "D": "A pilgrimage"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 178,
+    "question": "What is the central goal of yoga in Hinduism?",
+    "options": {
+      "A": "Physical fitness",
+      "B": "Mental peace",
+      "C": "Union with the divine",
+      "D": "Social harmony"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 179,
+    "question": "What is ‘Pranayama’ in Hindu practice?",
+    "options": {
+      "A": "A type of meditation",
+      "B": "The practice of controlling the breath",
+      "C": "A form of physical exercise",
+      "D": "A sacred mantra"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 180,
+    "question": "What does the Hindu caste system primarily categorize?",
+    "options": {
+      "A": "Spiritual practice",
+      "B": "Occupations and social duties",
+      "C": "Political beliefs",
+      "D": "Philosophical schools"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 181,
+    "question": "Which of the following is NOT a component of Hindu worship?",
+    "options": {
+      "A": "Offerings of food",
+      "B": "Chanting of sacred mantras",
+      "C": "Gathering of money for charity",
+      "D": "Physical gestures like bowing and prostration"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 182,
+    "question": "Which practice in Hinduism is associated with spiritual purification through fasting?",
+    "options": {
+      "A": "Dhyana",
+      "B": "Sadhana",
+      "C": "Vrata",
+      "D": "Yajna"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 183,
+    "question": "Which of the following Hindu practices focuses on the study of sacred texts and intellectual discussions?",
+    "options": {
+      "A": "Bhakti Yoga",
+      "B": "Karma Yoga",
+      "C": "Jnana Yoga",
+      "D": "Raja Yoga"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 184,
+    "question": "Which of the following is an essential aspect of Hindu marriage ceremonies?",
+    "options": {
+      "A": "Fasting for a specific period",
+      "B": "Rituals to sanctify the bond between husband and wife",
+      "C": "Going on pilgrimage",
+      "D": "Wearing sacred clothing"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 185,
+    "question": "Which of the following best describes the role of women in early Hindu society?",
+    "options": {
+      "A": "Equal to men in all respects",
+      "B": "Predominantly domestic and supportive",
+      "C": "Focused on religious leadership",
+      "D": "Excluded from spiritual practices"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 186,
+    "question": "What is ‘Guru-Purnima’?",
+    "options": {
+      "A": "A day of fasting",
+      "B": "A day to celebrate teachers and spiritual leaders",
+      "C": "A day to honor ancient texts",
+      "D": "A festival to celebrate wealth"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 187,
+    "question": "What does the practice of ‘Samskaras’ in Hinduism refer to?",
+    "options": {
+      "A": "Rituals performed at birth, marriage, and death",
+      "B": "The meditation techniques",
+      "C": "The study of scriptures",
+      "D": "The seasonal festivals"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 188,
+    "question": "Which of the following is the primary objective of Hindu rituals?",
+    "options": {
+      "A": "To increase material wealth",
+      "B": "To achieve spiritual growth and liberation",
+      "C": "To display public status",
+      "D": "To compete with other religions"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 189,
+    "question": "What does the practice of ‘Havan’ involve?",
+    "options": {
+      "A": "Pilgrimage to a sacred river",
+      "B": "The offering of materials to a sacred fire",
+      "C": "Fasting for spiritual purification",
+      "D": "Chanting mantras"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 190,
+    "question": "Which of the following is the primary goal of 'Karma Yoga' in Hinduism?",
+    "options": {
+      "A": "Material success",
+      "B": "Performing actions without attachment to the results",
+      "C": "Attaining wealth",
+      "D": "Developing physical strength"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 191,
+    "question": "What is the role of the Guru in the practice of yoga?",
+    "options": {
+      "A": "To teach the spiritual path and guide the disciple",
+      "B": "To perform rituals for the disciple",
+      "C": "To offer material wealth to the disciple",
+      "D": "To lead the disciple in a battle"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 192,
+    "question": "What does the 'Kundalini' represent in Hindu spiritual practices?",
+    "options": {
+      "A": "The eternal soul",
+      "B": "The divine energy coiled at the base of the spine",
+      "C": "The supreme godhead",
+      "D": "The material world"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 193,
+    "question": "Which of the following best describes the concept of ‘Maya’?",
+    "options": {
+      "A": "The path to spiritual liberation",
+      "B": "The illusion of the material world",
+      "C": "The absolute truth",
+      "D": "The soul’s journey through rebirth"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 194,
+    "question": "In Hinduism, what is the ‘Veda’ considered to be?",
+    "options": {
+      "A": "A collection of hymns and prayers",
+      "B": "A book of historical events",
+      "C": "A guide to political leadership",
+      "D": "A collection of philosophical texts"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 195,
+    "question": "Which of the following is NOT a Vedic text?",
+    "options": {
+      "A": "Rigveda",
+      "B": "Yajurveda",
+      "C": "Bhagavad Gita",
+      "D": "Atharvaveda"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 196,
+    "question": "What is ‘Satsang’ in Hinduism?",
+    "options": {
+      "A": "The practice of self-realization",
+      "B": "A gathering for spiritual discourse",
+      "C": "A physical exercise for purification",
+      "D": "A type of Hindu pilgrimage"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 197,
+    "question": "Which of the following is a central theme of the Bhagavad Gita?",
+    "options": {
+      "A": "The importance of wealth",
+      "B": "The practice of meditation only",
+      "C": "Performing one's duties selflessly",
+      "D": "The rejection of family bonds"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 198,
+    "question": "Which Hindu god is most commonly associated with the destruction of evil?",
+    "options": {
+      "A": "Brahma",
+      "B": "Shiva",
+      "C": "Vishnu",
+      "D": "Ganesha"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 199,
+    "question": "Which of the following texts is considered a key philosophical scripture of Hinduism?",
+    "options": {
+      "A": "Ramayana",
+      "B": "Bhagavad Gita",
+      "C": "Upanishads",
+      "D": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 200,
+    "question": "In Hindu cosmology, which deity is responsible for the creation of the universe?",
+    "options": {
+      "A": "Vishnu",
+      "B": "Shiva",
+      "C": "Brahma",
+      "D": "Ganesha"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 201,
+    "question": "What is the concept of ‘Kalpa’ in Hindu cosmology?",
+    "options": {
+      "A": "A period of spiritual enlightenment",
+      "B": "A cosmic cycle of creation and destruction",
+      "C": "A sacred text",
+      "D": "A type of ritual practice"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 202,
+    "question": "Which of the following is a key feature of the Hindu view of time?",
+    "options": {
+      "A": "Time is linear and finite",
+      "B": "Time is cyclical, with creation and destruction repeating",
+      "C": "Time is controlled by the gods alone",
+      "D": "Time is an illusion with no real significance"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 203,
+    "question": "In Hindu cosmology, what is the term for the current age or ‘era’?",
+    "options": {
+      "A": "Satya Yuga",
+      "B": "Kali Yuga",
+      "C": "Treta Yuga",
+      "D": "Dwapara Yuga"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 204,
+    "question": "Which of the following describes the nature of the universe according to Hindu thought?",
+    "options": {
+      "A": "The universe is created once and remains unchanged",
+      "B": "The universe is cyclical and continually undergoes cycles of creation and dissolution",
+      "C": "The universe is a single, unchanging entity",
+      "D": "The universe is only a product of human perception"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 205,
+    "question": "Which of the following is NOT a part of the Hindu understanding of time?",
+    "options": {
+      "A": "The concept of yugas",
+      "B": "The endless repetition of the cosmic cycle",
+      "C": "A linear, unidirectional timeline from creation to end",
+      "D": "The division of time into four main epochs"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 206,
+    "question": "In Hindu mythology, what is ‘Pralaya’?",
+    "options": {
+      "A": "The creation of the universe",
+      "B": "The cosmic dissolution or destruction",
+      "C": "The path to enlightenment",
+      "D": "The divine presence in all beings"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 207,
+    "question": "What is the purpose of the ‘Yugas’ in Hindu cosmology?",
+    "options": {
+      "A": "To measure human lifespan",
+      "B": "To describe the cyclical nature of time",
+      "C": "To mark the beginning of the universe",
+      "D": "To define the creation of individual gods"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 208,
+    "question": "How does the Hindu tradition view the end of the world?",
+    "options": {
+      "A": "As a final destruction that leads to nothingness",
+      "B": "As a cyclical event that marks the end of one cycle and the beginning of another",
+      "C": "As the end of human existence",
+      "D": "As a complete cessation of time"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 209,
+    "question": "Which Hindu deity is associated with the preservation and maintenance of the universe?",
+    "options": {
+      "A": "Vishnu",
+      "B": "Brahma",
+      "C": "Shiva",
+      "D": "Ganesh"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 210,
+    "question": "What does the Hindu wedding ceremony primarily symbolize?",
+    "options": {
+      "A": "Union of two families",
+      "B": "Spiritual union of two souls",
+      "C": "Material prosperity",
+      "D": "The continuation of family traditions"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 211,
+    "question": "What is the significance of ‘Havan’ or ‘Yajna’ in Hinduism?",
+    "options": {
+      "A": "To celebrate the harvest",
+      "B": "To purify the mind and body",
+      "C": "To offer prayers and sacrifices to the gods",
+      "D": "To perform meditation and chant mantras"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 212,
+    "question": "In Hinduism, what is the significance of ‘Tithi’?",
+    "options": {
+      "A": "The cycle of physical purification",
+      "B": "The phases of the moon used to determine auspicious times",
+      "C": "The sacred food offerings",
+      "D": "The performance of fire rituals"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 213,
+    "question": "Which Hindu festival is primarily associated with the worship of Lord Vishnu?",
+    "options": {
+      "A": "Diwali",
+      "B": "Holi",
+      "C": "Janmashtami",
+      "D": "Navratri"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 214,
+    "question": "What is the main aim of ‘Upanayana’ in Hinduism?",
+    "options": {
+      "A": "To mark the beginning of the study of Vedas for a young boy",
+      "B": "To offer sacrifices to the gods",
+      "C": "To celebrate the harvest",
+      "D": "To acknowledge the birth of a child"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 215,
+    "question": "Which of the following is the central idea behind the ‘Shraddha’ ceremony?",
+    "options": {
+      "A": "To honor ancestors and offer them food",
+      "B": "To celebrate the birth of a child",
+      "C": "To purify the mind through chanting",
+      "D": "To celebrate a wedding"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 216,
+    "question": "What is the ‘Arti’ ceremony in Hinduism?",
+    "options": {
+      "A": "The offering of food to the deities",
+      "B": "The singing of sacred songs and hymns",
+      "C": "The lighting of lamps and the offering of prayers",
+      "D": "The fasting for a specific purpose"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 217,
+    "question": "Which of the following is a key feature of the ‘Vrat’ practice in Hinduism?",
+    "options": {
+      "A": "Fasting and prayer",
+      "B": "Ritual sacrifices",
+      "C": "Attending a pilgrimage",
+      "D": "Reciting scriptures"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 218,
+    "question": "What is ‘Puja’ typically performed for in Hinduism?",
+    "options": {
+      "A": "To gain material wealth",
+      "B": "To honor deities and seek blessings",
+      "C": "To celebrate the harvest",
+      "D": "To purify the body"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 219,
+    "question": "Who is the preserver of the universe according to Hinduism?",
+    "options": {
+      "A": "Vishnu",
+      "B": "Shiva",
+      "C": "Brahma",
+      "D": "Ganesha"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 220,
+    "question": "What does the Hindu god Ganesha symbolize?",
+    "options": {
+      "A": "Destruction",
+      "B": "Knowledge and wisdom",
+      "C": "Wealth and prosperity",
+      "D": "Success and new beginnings"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 221,
+    "question": "Which god is known for his ten avatars, including the famous incarnations of Rama and Krishna?",
+    "options": {
+      "A": "Vishnu",
+      "B": "Shiva",
+      "C": "Brahma",
+      "D": "Indra"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 222,
+    "question": "Which of the following is considered the primary consort of Lord Shiva?",
+    "options": {
+      "A": "Saraswati",
+      "B": "Lakshmi",
+      "C": "Durga",
+      "D": "Parvati"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 223,
+    "question": "Which god in Hinduism is regarded as the creator of the universe?",
+    "options": {
+      "A": "Shiva",
+      "B": "Brahma",
+      "C": "Vishnu",
+      "D": "Surya"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 224,
+    "question": "What is the vehicle (Vahana) of Lord Vishnu?",
+    "options": {
+      "A": "Elephant",
+      "B": "Lion",
+      "C": "Garuda (eagle)",
+      "D": "Bull"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 225,
+    "question": "Who is regarded as the goddess of knowledge, arts, and wisdom in Hinduism?",
+    "options": {
+      "A": "Lakshmi",
+      "B": "Saraswati",
+      "C": "Parvati",
+      "D": "Durga"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 226,
+    "question": "Which of the following is the vehicle (Vahana) of Lord Shiva?",
+    "options": {
+      "A": "Horse",
+      "B": "Elephant",
+      "C": "Bull",
+      "D": "Mouse"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 227,
+    "question": "Who is the goddess of wealth and prosperity in Hinduism?",
+    "options": {
+      "A": "Durga",
+      "B": "Lakshmi",
+      "C": "Parvati",
+      "D": "Sita"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 228,
+    "question": "Which Hindu god is known for his association with dance and destruction?",
+    "options": {
+      "A": "Vishnu",
+      "B": "Shiva",
+      "C": "Brahma",
+      "D": "Krishna"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 229,
+    "question": "Which of the following Hindu deities is considered the god of war?",
+    "options": {
+      "A": "Shiva",
+      "B": "Krishna",
+      "C": "Kartikeya",
+      "D": "Ganesha"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 230,
+    "question": "Which of the following is NOT a part of a typical Hindu marriage ceremony?",
+    "options": {
+      "A": "Saptapadi (seven steps)",
+      "B": "Kanyadaan (giving away the bride)",
+      "C": "Garbhadhana (conception ritual)",
+      "D": "Homa (fire sacrifice)"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 231,
+    "question": "What is the 'Rudra Puja' dedicated to in Hinduism?",
+    "options": {
+      "A": "Goddess Lakshmi",
+      "B": "Lord Vishnu",
+      "C": "Lord Shiva",
+      "D": "Lord Ganesha"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 232,
+    "question": "What is the primary goal of 'Kundalini Yoga'?",
+    "options": {
+      "A": "Spiritual enlightenment through meditation",
+      "B": "Physical fitness",
+      "C": "Accumulating material wealth",
+      "D": "Achieving political power"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 233,
+    "question": "Which Hindu ceremony is performed for the deceased in order to ensure their peaceful afterlife?",
+    "options": {
+      "A": "Pujas",
+      "B": "Shraddha",
+      "C": "Satsang",
+      "D": "Aarti"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 234,
+    "question": "What is the significance of the 'Kumkum' in Hindu rituals?",
+    "options": {
+      "A": "It is a sacred offering to the gods",
+      "B": "It is used for decorating the temples",
+      "C": "It is applied on the forehead during worship",
+      "D": "It is used for marking auspicious events"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 235,
+    "question": "In Hindu rituals, what is the purpose of the 'Agni' or fire?",
+    "options": {
+      "A": "To purify the body",
+      "B": "To symbolize the presence of gods",
+      "C": "To bring good health",
+      "D": "To perform sacrifices"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 236,
+    "question": "Which of the following rituals is performed by Hindus for purification and spiritual growth?",
+    "options": {
+      "A": "Fasting",
+      "B": "Yajna",
+      "C": "Pilgrimages",
+      "D": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 237,
+    "question": "What is the purpose of the ‘Tilak’ in Hindu traditions?",
+    "options": {
+      "A": "To ward off evil",
+      "B": "To honor the gods",
+      "C": "To mark auspicious occasions",
+      "D": "To purify the body"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 238,
+    "question": "Which festival involves fasting and prayer by women for the well-being of their husbands?",
+    "options": {
+      "A": "Holi",
+      "B": "Karva Chauth",
+      "C": "Diwali",
+      "D": "Navratri"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 239,
+    "question": "What does the 'Sankalp' mean in Hindu rituals?",
+    "options": {
+      "A": "The ceremonial fire",
+      "B": "The spiritual prayer",
+      "C": "The vow or intention taken during rituals",
+      "D": "The offering of food to the gods"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 240,
+    "question": "What is the concept of 'Maya' in Hinduism?",
+    "options": {
+      "A": "The law of karma",
+      "B": "The illusion of the material world",
+      "C": "The eternal truth",
+      "D": "The concept of liberation"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 241,
+    "question": "What is ‘Dharma’ in Hinduism?",
+    "options": {
+      "A": "The supreme god",
+      "B": "The universal law of right conduct",
+      "C": "The cycle of birth and rebirth",
+      "D": "The ultimate goal of life"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 242,
+    "question": "What does 'Atman' represent in Hindu philosophy?",
+    "options": {
+      "A": "The universe",
+      "B": "The self or soul",
+      "C": "The creator of the world",
+      "D": "The laws of nature"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 243,
+    "question": "Which of the following texts describes the nature of reality and the self in Hindu philosophy?",
+    "options": {
+      "A": "Bhagavad Gita",
+      "B": "Vedas",
+      "C": "Upanishads",
+      "D": "Ramayana"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 244,
+    "question": "Which Hindu text describes the nature of the soul and the purpose of life?",
+    "options": {
+      "A": "Bhagavad Gita",
+      "B": "Mahabharata",
+      "C": "Ramayana",
+      "D": "Manusmriti"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 245,
+    "question": "What does 'Moksha' signify in Hinduism?",
+    "options": {
+      "A": "Eternal rebirth",
+      "B": "Liberation from the cycle of birth and death",
+      "C": "Fulfillment of worldly desires",
+      "D": "The completion of rituals"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 246,
+    "question": "What is the ‘Yoga Sutras’ primarily focused on?",
+    "options": {
+      "A": "Performing religious rituals",
+      "B": "Meditation and spiritual practices",
+      "C": "The study of the Vedas",
+      "D": "The creation of the universe"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 247,
+    "question": "Which Hindu god is known for his incarnation as Lord Rama in the Ramayana?",
+    "options": {
+      "A": "Vishnu",
+      "B": "Shiva",
+      "C": "Brahma",
+      "D": "Ganesha"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 248,
+    "question": "What does the term ‘Bhakti’ mean in Hinduism?",
+    "options": {
+      "A": "Knowledge and wisdom",
+      "B": "Devotion to God",
+      "C": "The study of scriptures",
+      "D": "Renunciation of worldly possessions"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 249,
+    "question": "What is the main purpose of ‘Jnana Yoga’?",
+    "options": {
+      "A": "Physical health",
+      "B": "Knowledge and wisdom for self-realization",
+      "C": "Material success",
+      "D": "Devotion to the supreme deity"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 250,
+    "question": "Which of the following is the Hindu concept of the cosmic order?",
+    "options": {
+      "A": "Dharma",
+      "B": "Karma",
+      "C": "Moksha",
+      "D": "Samsara"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 251,
+    "question": "In Hindu cosmology, which Yuga is considered the current era?",
+    "options": {
+      "A": "Satya Yuga",
+      "B": "Treta Yuga",
+      "C": "Kali Yuga",
+      "D": "Dwapara Yuga"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 252,
+    "question": "What is the Hindu concept of ‘Brahman’?",
+    "options": {
+      "A": "The ultimate reality or supreme cosmic power",
+      "B": "The deity of creation",
+      "C": "The individual soul",
+      "D": "The cycle of reincarnation"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 253,
+    "question": "What is the Hindu concept of ‘Samsara’?",
+    "options": {
+      "A": "The material world",
+      "B": "The eternal cycle of birth, death, and rebirth",
+      "C": "Liberation from the material world",
+      "D": "The divine law of the universe"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 254,
+    "question": "Which Hindu god is considered the god of knowledge and wisdom?",
+    "options": {
+      "A": "Shiva",
+      "B": "Vishnu",
+      "C": "Brahma",
+      "D": "Ganesha"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 255,
+    "question": "What does ‘AUM’ represent in Hinduism?",
+    "options": {
+      "A": "The soul",
+      "B": "The universe and the ultimate reality",
+      "C": "The cycle of birth and death",
+      "D": "The earth"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 256,
+    "question": "Which Yuga is characterized by the presence of truth, righteousness, and spiritual purity?",
+    "options": {
+      "A": "Satya Yuga",
+      "B": "Treta Yuga",
+      "C": "Dwapara Yuga",
+      "D": "Kali Yuga"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 257,
+    "question": "What is the significance of the ‘Saptapadi’ in Hindu marriage rituals?",
+    "options": {
+      "A": "The exchange of vows between the couple",
+      "B": "The couple taking seven steps together, symbolizing their unity",
+      "C": "The lighting of the sacred fire",
+      "D": "The offering of food to the gods"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 258,
+    "question": "What does ‘Karma’ in Hinduism primarily refer to?",
+    "options": {
+      "A": "Actions and their consequences",
+      "B": "The law of the universe",
+      "C": "The power of meditation",
+      "D": "The path to liberation"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 259,
+    "question": "In Hindu philosophy, what is the nature of ‘Atman’?",
+    "options": {
+      "A": "The universe",
+      "B": "The soul or individual self",
+      "C": "The deity of creation",
+      "D": "The law of nature"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 260,
+    "question": "Which of the following festivals marks the birth of Lord Krishna?",
+    "options": {
+      "A": "Holi",
+      "B": "Diwali",
+      "C": "Janmashtami",
+      "D": "Ganesh Chaturthi"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 261,
+    "question": "What is celebrated during the festival of Holi in Hinduism?",
+    "options": {
+      "A": "The triumph of good over evil",
+      "B": "The arrival of spring and the victory of good over evil",
+      "C": "The victory of Lord Krishna",
+      "D": "The beginning of the new year"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 262,
+    "question": "What is the significance of lighting diyas during Diwali?",
+    "options": {
+      "A": "To symbolize the destruction of evil",
+      "B": "To honor the moon",
+      "C": "To offer prayers to the gods",
+      "D": "To celebrate the harvest"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 263,
+    "question": "Which festival is celebrated to honor the goddess Durga?",
+    "options": {
+      "A": "Ganesh Chaturthi",
+      "B": "Navratri",
+      "C": "Diwali",
+      "D": "Makar Sankranti"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 264,
+    "question": "Which of the following is a primary feature of the festival of Raksha Bandhan?",
+    "options": {
+      "A": "The worship of Lord Ganesha",
+      "B": "The celebration of brother-sister relationships",
+      "C": "The honoring of ancestors",
+      "D": "The lighting of lamps"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 265,
+    "question": "Which festival marks the victory of Lord Rama over Ravana?",
+    "options": {
+      "A": "Diwali",
+      "B": "Dussehra",
+      "C": "Holi",
+      "D": "Makar Sankranti"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 266,
+    "question": "Which Hindu festival celebrates the harvesting season and the worship of the Sun god?",
+    "options": {
+      "A": "Makar Sankranti",
+      "B": "Diwali",
+      "C": "Karva Chauth",
+      "D": "Ganesh Chaturthi"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 267,
+    "question": "What is the central focus of the festival of Karva Chauth?",
+    "options": {
+      "A": "Fasting for the prosperity of the family",
+      "B": "Devotion to Lord Vishnu",
+      "C": "Fasting for the long life of husbands",
+      "D": "The start of the monsoon season"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 268,
+    "question": "What does the 'Baisakhi' festival signify in Hinduism?",
+    "options": {
+      "A": "The birth of Lord Krishna",
+      "B": "The harvest season and the beginning of the new year",
+      "C": "The triumph of good over evil",
+      "D": "The celebration of Lord Shiva’s victory"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 269,
+    "question": "Which Hindu festival is celebrated by offering prayers and fasting to Lord Shiva?",
+    "options": {
+      "A": "Diwali",
+      "B": "Maha Shivaratri",
+      "C": "Holi",
+      "D": "Karva Chauth"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 270,
+    "question": "Which of the following is the significance of 'Tilak' in Hindu rituals?",
+    "options": {
+      "A": "A symbol of protection and auspiciousness",
+      "B": "The marking of sacred ground",
+      "C": "The offering of food to deities",
+      "D": "The chanting of sacred mantras"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 271,
+    "question": "What is the purpose of the ‘Puja’ ceremony in Hinduism?",
+    "options": {
+      "A": "To give thanks and offer prayers to deities",
+      "B": "To gather wealth",
+      "C": "To celebrate the birth of a child",
+      "D": "To recite philosophical texts"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 272,
+    "question": "Which of the following is NOT typically part of the Hindu ritual known as ‘Havan’?",
+    "options": {
+      "A": "Offering ghee and other materials into a sacred fire",
+      "B": "Chanting mantras",
+      "C": "Worshiping idols in temples",
+      "D": "Offering food to the gods"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 273,
+    "question": "What is the significance of the ‘Saptapadi’ during a Hindu wedding?",
+    "options": {
+      "A": "The couple takes seven vows",
+      "B": "The couple exchanges wedding rings",
+      "C": "The bride receives her wedding gift",
+      "D": "The couple recites sacred hymns"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 274,
+    "question": "What is the purpose of the 'Chaupadi' tradition in certain Hindu communities?",
+    "options": {
+      "A": "Celebrating harvest",
+      "B": "A form of fasting during certain periods of the year",
+      "C": "The ritualistic singing of hymns",
+      "D": "A ritual purification process"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 275,
+    "question": "What is ‘Karma Yoga’ in Hinduism?",
+    "options": {
+      "A": "The path of devotion to a god",
+      "B": "The path of selfless action",
+      "C": "The practice of meditation",
+      "D": "The study of sacred texts"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 276,
+    "question": "What is the ultimate goal of 'Moksha' in Hinduism?",
+    "options": {
+      "A": "Reincarnation",
+      "B": "Accumulating wealth",
+      "C": "Liberation from the cycle of birth and rebirth",
+      "D": "Achieving political power"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 277,
+    "question": "What is the practice of ‘Bhakti Yoga’ focused on?",
+    "options": {
+      "A": "Knowledge and wisdom",
+      "B": "Devotion and love for God",
+      "C": "Physical fitness",
+      "D": "The study of scriptures"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 278,
+    "question": "What does ‘Atman’ signify in Hindu philosophy?",
+    "options": {
+      "A": "The eternal soul or self",
+      "B": "The material world",
+      "C": "The law of karma",
+      "D": "The cycle of reincarnation"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 279,
+    "question": "What is the meaning of ‘Dhyana’ in Hinduism?",
+    "options": {
+      "A": "The practice of fasting",
+      "B": "The practice of meditation",
+      "C": "The performance of rituals",
+      "D": "The worship of deities"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 280,
+    "question": "Which of the following is an essential part of the Hindu practice of ‘Seva’?",
+    "options": {
+      "A": "Wealth accumulation",
+      "B": "Service to others and selfless work",
+      "C": "Meditating for long hours",
+      "D": "Engaging in political activities"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 281,
+    "question": "Which of the following best describes the role of 'Karma' in Hinduism?",
+    "options": {
+      "A": "The path of knowledge",
+      "B": "The actions and consequences of one’s actions",
+      "C": "The practice of devotion to a deity",
+      "D": "The cycle of reincarnation"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 282,
+    "question": "Which of the following is considered the first step in the spiritual journey of a Hindu?",
+    "options": {
+      "A": "Knowledge (Jnana)",
+      "B": "Devotion (Bhakti)",
+      "C": "Meditation (Dhyana)",
+      "D": "Selfless action (Karma)"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 283,
+    "question": "What is the Hindu practice of ‘Vrata’?",
+    "options": {
+      "A": "A pilgrimage to a sacred site",
+      "B": "Fasting and religious observance",
+      "C": "Offering prayers to the gods",
+      "D": "Reciting sacred mantras"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 284,
+    "question": "Which Hindu deity is known for his association with knowledge, wisdom, and writing?",
+    "options": {
+      "A": "Vishnu",
+      "B": "Shiva",
+      "C": "Ganesha",
+      "D": "Brahma"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 285,
+    "question": "What does the term ‘Samsara’ mean in Hinduism?",
+    "options": {
+      "A": "The path of knowledge",
+      "B": "The cycle of birth, death, and rebirth",
+      "C": "The divine presence in all beings",
+      "D": "The ultimate goal of liberation"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 286,
+    "question": "In Hinduism, what is the primary purpose of the practice of meditation?",
+    "options": {
+      "A": "To achieve physical health",
+      "B": "To accumulate wealth",
+      "C": "To attain spiritual knowledge and self-realization",
+      "D": "To gain material power"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 287,
+    "question": "Which of the following is a key aspect of ‘Kundalini Yoga’?",
+    "options": {
+      "A": "The practice of physical postures and breathing",
+      "B": "The worship of a deity",
+      "C": "The activation of spiritual energy through meditation",
+      "D": "The study of sacred texts"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 288,
+    "question": "Which of the following practices is associated with the concept of ‘Bhakti Yoga’?",
+    "options": {
+      "A": "Physical postures and meditation",
+      "B": "Knowledge through scriptures",
+      "C": "Devotion and love for God",
+      "D": "Rituals for prosperity"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 289,
+    "question": "What does the practice of ‘Satsang’ typically involve?",
+    "options": {
+      "A": "Offering food to the gods",
+      "B": "Listening to spiritual discourses",
+      "C": "Fasting for purification",
+      "D": "Dancing and singing"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 290,
+    "question": "What is the Hindu understanding of ‘Maya’?",
+    "options": {
+      "A": "The ultimate reality",
+      "B": "The illusion of the material world",
+      "C": "The knowledge of the self",
+      "D": "The deity of destruction"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 291,
+    "question": "Which Hindu text elaborates the philosophy of ‘Advaita Vedanta’?",
+    "options": {
+      "A": "Yoga Sutras",
+      "B": "Bhagavad Gita",
+      "C": "Upanishads",
+      "D": "Ramayana"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 292,
+    "question": "Which of the following is a concept found in both Advaita Vedanta and the Bhagavad Gita?",
+    "options": {
+      "A": "The world is an illusion",
+      "B": "The soul is identical with Brahman",
+      "C": "The body is the ultimate reality",
+      "D": "Material wealth is the highest goal"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 293,
+    "question": "Which Hindu text presents a vision of the ideal man as one who combines knowledge, devotion, and selfless action?",
+    "options": {
+      "A": "Vedas",
+      "B": "Bhagavad Gita",
+      "C": "Ramayana",
+      "D": "Manusmriti"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 294,
+    "question": "Which Hindu god represents the principle of preservation and protection of the universe?",
+    "options": {
+      "A": "Shiva",
+      "B": "Vishnu",
+      "C": "Brahma",
+      "D": "Indra"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 295,
+    "question": "Which of the following describes the Hindu belief in 'Karma'?",
+    "options": {
+      "A": "Good actions will lead to liberation",
+      "B": "Every action has consequences, either in this life or the next",
+      "C": "It is the ultimate truth",
+      "D": "It is a law of nature"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 296,
+    "question": "Which of the following concepts refers to the Hindu belief that the soul is eternal?",
+    "options": {
+      "A": "Dharma",
+      "B": "Karma",
+      "C": "Atman",
+      "D": "Moksha"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 297,
+    "question": "What does the term 'Brahman' refer to in Hindu philosophy?",
+    "options": {
+      "A": "The creator god",
+      "B": "The ultimate reality or supreme cosmic power",
+      "C": "The material world",
+      "D": "The law of karma"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 298,
+    "question": "In Hinduism, what does the concept of ‘Moksha’ represent?",
+    "options": {
+      "A": "Reincarnation",
+      "B": "Spiritual enlightenment and liberation from the cycle of rebirth",
+      "C": "The pursuit of wealth",
+      "D": "The duty to society"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 299,
+    "question": "Which Hindu god is known for his multiple incarnations, including those as Rama and Krishna?",
+    "options": {
+      "A": "Shiva",
+      "B": "Vishnu",
+      "C": "Brahma",
+      "D": "Ganesha"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 300,
+    "question": "What is the purpose of the 'Saptapadi' in Hindu weddings?",
+    "options": {
+      "A": "The couple takes seven vows together",
+      "B": "The bride and groom exchange wedding rings",
+      "C": "The couple performs a sacred fire ritual",
+      "D": "The groom offers food to the bride’s family"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 301,
+    "question": "What is the Hindu practice of ‘Vrata’?",
+    "options": {
+      "A": "A form of meditation",
+      "B": "A ritual fasting or vow",
+      "C": "A pilgrimage to sacred sites",
+      "D": "A practice of chanting mantras"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 302,
+    "question": "What is the primary ritual performed during the festival of Diwali?",
+    "options": {
+      "A": "Lighting oil lamps (diyas)",
+      "B": "Offering sacrifices to the gods",
+      "C": "Fasting and penance",
+      "D": "Chanting mantras for prosperity"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 303,
+    "question": "Which of the following Hindu practices is associated with the worship of the goddess Durga?",
+    "options": {
+      "A": "Ganesh Chaturthi",
+      "B": "Durga Puja",
+      "C": "Holi",
+      "D": "Karva Chauth"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 304,
+    "question": "Which Hindu practice involves the offering of water to the Sun during sunrise?",
+    "options": {
+      "A": "Arti",
+      "B": "Surya Namaskar",
+      "C": "Sadhana",
+      "D": "Ganga Aarti"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 305,
+    "question": "What is the term used for the sacred fire ritual performed during various Hindu ceremonies?",
+    "options": {
+      "A": "Yajna",
+      "B": "Puja",
+      "C": "Homa",
+      "D": "Arti"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 306,
+    "question": "What is the practice of ‘Yajna’ designed to accomplish in Hindu rituals?",
+    "options": {
+      "A": "Spiritual purification",
+      "B": "Material wealth",
+      "C": "Physical health",
+      "D": "Political power"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 307,
+    "question": "Which Hindu god is worshipped during the festival of Ganesh Chaturthi?",
+    "options": {
+      "A": "Shiva",
+      "B": "Vishnu",
+      "C": "Brahma",
+      "D": "Ganesha"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 308,
+    "question": "What is the main significance of ‘Maha Shivaratri’ in Hinduism?",
+    "options": {
+      "A": "Celebration of the birth of Lord Vishnu",
+      "B": "The worship of Lord Shiva through fasting and prayers",
+      "C": "The beginning of the harvest season",
+      "D": "The day of Lord Krishna’s victory over Kamsa"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 309,
+    "question": "What is the term ‘Puja’ used for in Hindu rituals?",
+    "options": {
+      "A": "A type of meditation",
+      "B": "A sacred fire",
+      "C": "A form of worship and prayer to deities",
+      "D": "A religious festival"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 310,
+    "question": "What is the term ‘Samskara’ used for in Hinduism?",
+    "options": {
+      "A": "The belief in reincarnation",
+      "B": "The sacred rites of passage",
+      "C": "The rituals for prosperity",
+      "D": "The study of scriptures"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 311,
+    "question": "Which Hindu practice involves offering prayers and gifts to ancestors?",
+    "options": {
+      "A": "Shraddha",
+      "B": "Puja",
+      "C": "Aarti",
+      "D": "Satsang"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 312,
+    "question": "What is the significance of the ‘Kundalini’ in spiritual practices?",
+    "options": {
+      "A": "The path of selfless action",
+      "B": "The ultimate goal of liberation",
+      "C": "The dormant spiritual energy within",
+      "D": "The study of scriptures"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 313,
+    "question": "Which of the following is a central feature of the Hindu concept of ‘Ahimsa’?",
+    "options": {
+      "A": "Non-violence",
+      "B": "Seeking wealth",
+      "C": "Material success",
+      "D": "Political power"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 314,
+    "question": "Which of the following is NOT a key feature of the Hindu caste system?",
+    "options": {
+      "A": "It divides society into hierarchical groups",
+      "B": "It determines one's social status and occupation",
+      "C": "It has no basis in spiritual practice",
+      "D": "It promotes equality among all people"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 315,
+    "question": "What is the primary goal of ‘Jnana Yoga’?",
+    "options": {
+      "A": "Meditation for self-realization",
+      "B": "Devotion to a deity",
+      "C": "Knowledge and wisdom for liberation",
+      "D": "Performing rituals for prosperity"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 316,
+    "question": "What is ‘Satya’ in Hinduism?",
+    "options": {
+      "A": "The cycle of reincarnation",
+      "B": "Truth and righteousness",
+      "C": "Devotion to God",
+      "D": "The illusion of the material world"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 317,
+    "question": "Which of the following practices is associated with the Hindu festival of Navratri?",
+    "options": {
+      "A": "Fasting and worshiping Durga",
+      "B": "Lighting lamps during Diwali",
+      "C": "Offering prayers to the Sun god",
+      "D": "Performing the Arti ceremony"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 318,
+    "question": "Which of the following best describes the Hindu concept of ‘Dharma’?",
+    "options": {
+      "A": "The ultimate goal of liberation",
+      "B": "The righteous duty and moral law",
+      "C": "The law of karma",
+      "D": "The eternal soul"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 319,
+    "question": "Which Hindu god is known for his association with wisdom, music, and arts?",
+    "options": {
+      "A": "Shiva",
+      "B": "Vishnu",
+      "C": "Brahma",
+      "D": "Saraswati"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 320,
+    "question": "Which of the following is the Hindu law of cause and effect?",
+    "options": {
+      "A": "Karma",
+      "B": "Dharma",
+      "C": "Moksha",
+      "D": "Samsara"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 321,
+    "question": "What is ‘Samsara’ in Hinduism?",
+    "options": {
+      "A": "The ultimate liberation",
+      "B": "The eternal cycle of birth, death, and rebirth",
+      "C": "The law of karma",
+      "D": "The supreme god"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 322,
+    "question": "Which of the following is considered one of the primary goals in Hindu life?",
+    "options": {
+      "A": "Wealth (Artha)",
+      "B": "Devotion (Bhakti)",
+      "C": "Liberation (Moksha)",
+      "D": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 323,
+    "question": "What does ‘Sankirtan’ refer to in Hindu traditions?",
+    "options": {
+      "A": "Meditation",
+      "B": "Chanting the name of God in a group",
+      "C": "Fasting for spiritual purification",
+      "D": "Offering sacrifices to deities"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 324,
+    "question": "Which of the following best describes the practice of ‘Yoga’ in Hinduism?",
+    "options": {
+      "A": "A series of physical exercises",
+      "B": "The unification of the mind, body, and spirit",
+      "C": "Chanting sacred mantras",
+      "D": "Offering food to the gods"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 325,
+    "question": "Which Hindu god is primarily associated with the concept of time and destruction?",
+    "options": {
+      "A": "Shiva",
+      "B": "Vishnu",
+      "C": "Brahma",
+      "D": "Ganesha"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 326,
+    "question": "What is the primary teaching of the Bhagavad Gita?",
+    "options": {
+      "A": "Devotion is the only way to liberation",
+      "B": "Knowledge is the highest form of yoga",
+      "C": "Perform one's duties selflessly without attachment to outcomes",
+      "D": "Rejection of material possessions leads to peace"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 327,
+    "question": "What is the term for the sacred thread ceremony in Hinduism?",
+    "options": {
+      "A": "Upanayana",
+      "B": "Satsang",
+      "C": "Yajna",
+      "D": "Puja"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 328,
+    "question": "Which of the following describes the path of ‘Bhakti Yoga’?",
+    "options": {
+      "A": "The path of devotion to a deity",
+      "B": "The path of knowledge and wisdom",
+      "C": "The path of selfless action",
+      "D": "The path of physical discipline"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 329,
+    "question": "Which of the following Hindu texts contains the teachings of Lord Krishna?",
+    "options": {
+      "A": "Ramayana",
+      "B": "Mahabharata",
+      "C": "Bhagavad Gita",
+      "D": "Vedas"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 330,
+    "question": "Which Hindu scripture discusses the creation of the universe and the laws of nature?",
+    "options": {
+      "A": "Bhagavad Gita",
+      "B": "Upanishads",
+      "C": "Vedas",
+      "D": "Ramayana"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 331,
+    "question": "What does the term ‘Upanishad’ mean in Hinduism?",
+    "options": {
+      "A": "The ultimate goal of life",
+      "B": "The sacred rituals",
+      "C": "The ancient wisdom and philosophy",
+      "D": "The laws of karma"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 332,
+    "question": "What is the ‘Bhagavata Purana’ known for?",
+    "options": {
+      "A": "Describing the divine power of Lord Vishnu",
+      "B": "Teaching the art of meditation",
+      "C": "The genealogies of kings and gods",
+      "D": "Providing philosophical teachings on morality"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 333,
+    "question": "Which Hindu scripture discusses the story of Lord Rama and his quest to rescue his wife Sita?",
+    "options": {
+      "A": "Mahabharata",
+      "B": "Ramayana",
+      "C": "Bhagavad Gita",
+      "D": "Vedas"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 334,
+    "question": "Which of the following texts is a part of the Hindu scriptures but is focused on the philosophy of Vedanta?",
+    "options": {
+      "A": "Mahabharata",
+      "B": "Ramayana",
+      "C": "Upanishads",
+      "D": "Puranas"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 335,
+    "question": "What does ‘Vedanta’ teach about the relationship between the soul and the supreme reality?",
+    "options": {
+      "A": "The soul is different from the supreme reality",
+      "B": "The soul is identical with the supreme reality",
+      "C": "The soul is superior to the supreme reality",
+      "D": "The supreme reality does not exist"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 336,
+    "question": "Which Hindu text is primarily concerned with the philosophy of devotion and surrender to God?",
+    "options": {
+      "A": "Bhagavad Gita",
+      "B": "Yoga Sutras",
+      "C": "Mahabharata",
+      "D": "Vedas"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 337,
+    "question": "What is the primary focus of the ‘Vedic’ hymns?",
+    "options": {
+      "A": "Religious philosophy",
+      "B": "History of Hindu kings",
+      "C": "Rituals and sacrifices to gods",
+      "D": "The cycle of rebirth"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 338,
+    "question": "What is the central theme of the ‘Ramayana’?",
+    "options": {
+      "A": "The creation of the universe",
+      "B": "The importance of moral values and duty",
+      "C": "The teachings of the Vedas",
+      "D": "The spiritual practice of yoga"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 339,
+    "question": "What is the Hindu ceremony known as ‘Havan’?",
+    "options": {
+      "A": "The offering of food to the gods",
+      "B": "The sacred fire ritual performed with mantras",
+      "C": "The fasting ritual for purification",
+      "D": "The pilgrimage to holy rivers"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 340,
+    "question": "Which of the following is a sacred river in Hinduism considered to be purifying?",
+    "options": {
+      "A": "Yamuna",
+      "B": "Ganges",
+      "C": "Godavari",
+      "D": "Saraswati"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 341,
+    "question": "What is the ‘Saptapadi’ ritual in a Hindu wedding?",
+    "options": {
+      "A": "The exchange of vows between the couple",
+      "B": "The lighting of the sacred fire",
+      "C": "The offering of gifts to the gods",
+      "D": "The couple taking seven steps together, symbolizing their unity"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 342,
+    "question": "What is the primary purpose of ‘Vrat’ in Hinduism?",
+    "options": {
+      "A": "To achieve material wealth",
+      "B": "To purify the body and soul through fasting",
+      "C": "To serve the community",
+      "D": "To complete religious studies"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 343,
+    "question": "What is ‘Karma Yoga’ in Hinduism?",
+    "options": {
+      "A": "The path of selfless action",
+      "B": "The practice of devotion to God",
+      "C": "The pursuit of knowledge",
+      "D": "The path of physical exercise"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 344,
+    "question": "What is the Hindu practice of ‘Pranayama’?",
+    "options": {
+      "A": "The study of scriptures",
+      "B": "The control of breath to increase life energy",
+      "C": "A form of meditation",
+      "D": "The recitation of mantras"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 345,
+    "question": "Which of the following is the term for a Hindu ceremonial offering of food to the deities?",
+    "options": {
+      "A": "Yajna",
+      "B": "Puja",
+      "C": "Prasad",
+      "D": "Homa"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 346,
+    "question": "What does the ‘Tilak’ symbolize in Hinduism?",
+    "options": {
+      "A": "Purity and auspiciousness",
+      "B": "Power and political authority",
+      "C": "A symbol of wealth",
+      "D": "The cycle of life and death"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 347,
+    "question": "Which deity is associated with the festival of Ganesh Chaturthi?",
+    "options": {
+      "A": "Vishnu",
+      "B": "Ganesha",
+      "C": "Shiva",
+      "D": "Lakshmi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 348,
+    "question": "Which Hindu text provides a philosophical explanation of the universe and the soul?",
+    "options": {
+      "A": "Bhagavad Gita",
+      "B": "Ramayana",
+      "C": "Upanishads",
+      "D": "Puranas"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 349,
+    "question": "What is the ultimate aim of ‘Jnana Yoga’ in Hinduism?",
+    "options": {
+      "A": "To obtain material wealth",
+      "B": "To develop physical strength",
+      "C": "To gain spiritual knowledge and self-realization",
+      "D": "To practice devotion to God"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 350,
+    "question": "What is the 'Arati' ceremony in Hinduism?",
+    "options": {
+      "A": "The recitation of holy scriptures",
+      "B": "The lighting of lamps and singing of praises",
+      "C": "The fasting for purification",
+      "D": "The offering of gifts to the gods"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 351,
+    "question": "In Hindu philosophy, what does 'Maya' represent?",
+    "options": {
+      "A": "The concept of truth",
+      "B": "The cosmic illusion of the material world",
+      "C": "The path to liberation",
+      "D": "The Supreme Being"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 352,
+    "question": "Which of the following is NOT one of the Four Purusharthas in Hinduism?",
+    "options": {
+      "A": "Dharma",
+      "B": "Artha",
+      "C": "Moksha",
+      "D": "Moksha"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 353,
+    "question": "Which practice is most closely associated with achieving ‘Moksha’?",
+    "options": {
+      "A": "Selfless action and devotion",
+      "B": "Political leadership",
+      "C": "Acquiring wealth",
+      "D": "Renunciation of the material world"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 354,
+    "question": "What is the Hindu concept of ‘Atman’?",
+    "options": {
+      "A": "The individual soul or self",
+      "B": "The physical body",
+      "C": "The external reality",
+      "D": "The cycle of reincarnation"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 355,
+    "question": "Which Hindu deity is primarily associated with the power of destruction and transformation?",
+    "options": {
+      "A": "Vishnu",
+      "B": "Shiva",
+      "C": "Brahma",
+      "D": "Ganesha"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 356,
+    "question": "Which is the central concept of ‘Advaita Vedanta’?",
+    "options": {
+      "A": "The soul is separate from the universe",
+      "B": "The ultimate truth is non-dual; the soul is one with the universe",
+      "C": "The material world is an illusion",
+      "D": "The universe is cyclical"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 357,
+    "question": "What does the term ‘Moksha’ refer to in Hinduism?",
+    "options": {
+      "A": "Spiritual enlightenment",
+      "B": "The path of knowledge",
+      "C": "Liberation from the cycle of rebirth",
+      "D": "The pursuit of wealth"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 358,
+    "question": "Which Hindu festival celebrates the arrival of spring and the victory of good over evil?",
+    "options": {
+      "A": "Diwali",
+      "B": "Holi",
+      "C": "Navratri",
+      "D": "Makar Sankranti"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 359,
+    "question": "Which of the following is a key element of Hinduism's view of the soul and universe?",
+    "options": {
+      "A": "The soul is eternal, and the universe is cyclical",
+      "B": "The soul is mortal, and the universe is static",
+      "C": "The universe is created and destroyed in a single moment",
+      "D": "The soul is purely material and finite"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 360,
+    "question": "What is ‘Aarti’ in Hinduism?",
+    "options": {
+      "A": "A form of meditation",
+      "B": "A ceremony where light is offered to deities",
+      "C": "A form of prayer for prosperity",
+      "D": "The recitation of mantras"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 361,
+    "question": "Which is the sacred syllable often used in Hindu meditation and prayer to represent the divine sound?",
+    "options": {
+      "A": "Om",
+      "B": "Namah",
+      "C": "Hare",
+      "D": "Sat"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 362,
+    "question": "Which of the following is the Hindu practice of bathing in a sacred river for spiritual purification?",
+    "options": {
+      "A": "Shraddha",
+      "B": "Snana",
+      "C": "Karma",
+      "D": "Satsang"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 363,
+    "question": "What is the purpose of the ‘Shraddha’ ceremony in Hinduism?",
+    "options": {
+      "A": "To purify the body",
+      "B": "To honor ancestors and offer them food",
+      "C": "To celebrate the harvest",
+      "D": "To mark the beginning of a new year"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 364,
+    "question": "Which Hindu god is primarily associated with wisdom and learning?",
+    "options": {
+      "A": "Ganesha",
+      "B": "Vishnu",
+      "C": "Shiva",
+      "D": "Brahma"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 365,
+    "question": "Which of the following is a major theme in the Bhagavad Gita?",
+    "options": {
+      "A": "The nature of the soul and the universe",
+      "B": "The importance of wealth accumulation",
+      "C": "The victory of Rama over Ravana",
+      "D": "The rejection of meditation and prayer"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 366,
+    "question": "Which of the following is the purpose of ‘Sadhana’ in Hindu spiritual practice?",
+    "options": {
+      "A": "To learn political science",
+      "B": "To achieve spiritual goals through consistent practice",
+      "C": "To earn material wealth",
+      "D": "To control the physical world"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 367,
+    "question": "What is ‘Brahman’ in Hinduism?",
+    "options": {
+      "A": "The physical world",
+      "B": "The ultimate reality or supreme cosmic force",
+      "C": "The soul of individual beings",
+      "D": "The deity of destruction"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 368,
+    "question": "Which of the following Hindu practices involves reciting sacred prayers and mantras for peace and blessings?",
+    "options": {
+      "A": "Yajna",
+      "B": "Puja",
+      "C": "Satsang",
+      "D": "Pranayama"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 369,
+    "question": "Which of the following is a core value taught in the Bhagavad Gita?",
+    "options": {
+      "A": "Devotion to God and detachment from the fruits of action",
+      "B": "Seeking fame and fortune",
+      "C": "Renouncing all worldly pleasures",
+      "D": "Ignoring the cycle of birth and death"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 370,
+    "question": "What does ‘Veda’ refer to in Hinduism?",
+    "options": {
+      "A": "A series of philosophical texts",
+      "B": "A system of belief",
+      "C": "A collection of hymns, prayers, and rituals",
+      "D": "A method of meditation"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 371,
+    "question": "What is the term for the sacred thread worn by a Hindu male during the ‘Upanayana’ ceremony?",
+    "options": {
+      "A": "Tilak",
+      "B": "Japa",
+      "C": "Yajnopavita",
+      "D": "Mala"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 372,
+    "question": "Which of the following is NOT a Hindu text?",
+    "options": {
+      "A": "Bhagavad Gita",
+      "B": "Ramayana",
+      "C": "Bible",
+      "D": "Upanishads"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 373,
+    "question": "What is the focus of the ‘Yoga Sutras’ by Patanjali?",
+    "options": {
+      "A": "The path of devotion",
+      "B": "The philosophy of the cosmos",
+      "C": "The practical teachings of yoga and meditation",
+      "D": "The stories of gods and goddesses"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 374,
+    "question": "Which of the following is considered the earliest Hindu scripture?",
+    "options": {
+      "A": "Upanishads",
+      "B": "Vedas",
+      "C": "Ramayana",
+      "D": "Mahabharata"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 375,
+    "question": "What is ‘Karma’ in Hinduism?",
+    "options": {
+      "A": "The eternal soul",
+      "B": "The law of actions and their consequences",
+      "C": "The practice of devotion to a god",
+      "D": "The divine cosmic principle"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 376,
+    "question": "In Hinduism, what does the term ‘Samsara’ refer to?",
+    "options": {
+      "A": "The ultimate goal of life",
+      "B": "The material world",
+      "C": "The cycle of birth, death, and rebirth",
+      "D": "The path to enlightenment"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 377,
+    "question": "Which of the following deities is associated with the destruction of the universe?",
+    "options": {
+      "A": "Vishnu",
+      "B": "Brahma",
+      "C": "Shiva",
+      "D": "Ganesha"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 378,
+    "question": "Which text is part of the Mahabharata and presents the teachings of Krishna to Arjuna?",
+    "options": {
+      "A": "Ramayana",
+      "B": "Bhagavad Gita",
+      "C": "Vedas",
+      "D": "Upanishads"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 379,
+    "question": "What is the term for the Hindu festival that celebrates the return of Lord Rama to Ayodhya after defeating Ravana?",
+    "options": {
+      "A": "Holi",
+      "B": "Diwali",
+      "C": "Ganesh Chaturthi",
+      "D": "Navratri"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 380,
+    "question": "Which of the following is a primary principle of 'Advaita Vedanta'?",
+    "options": {
+      "A": "The soul is separate from the supreme reality",
+      "B": "The soul and the supreme reality are one",
+      "C": "The supreme reality is impersonal",
+      "D": "Material wealth is the path to liberation"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 381,
+    "question": "Which Hindu practice involves the offering of light to the deities during worship?",
+    "options": {
+      "A": "Puja",
+      "B": "Havan",
+      "C": "Aarti",
+      "D": "Satsang"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 382,
+    "question": "What is ‘Maya’ in Hinduism?",
+    "options": {
+      "A": "The path to liberation",
+      "B": "The goddess of wealth",
+      "C": "The illusion of the material world",
+      "D": "The eternal truth"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 383,
+    "question": "Which of the following texts is primarily concerned with philosophical discussions on the nature of the self and the universe?",
+    "options": {
+      "A": "Mahabharata",
+      "B": "Upanishads",
+      "C": "Vedas",
+      "D": "Ramayana"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 384,
+    "question": "What does ‘Moksha’ represent in Hinduism?",
+    "options": {
+      "A": "Liberation from the cycle of rebirth",
+      "B": "The pursuit of wealth",
+      "C": "The worship of the deities",
+      "D": "Knowledge of the self"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 385,
+    "question": "What is the significance of ‘Yoga’ in Hinduism?",
+    "options": {
+      "A": "It is a method for acquiring wealth",
+      "B": "It is a practice for physical health and mental peace",
+      "C": "It is a tool for gaining political power",
+      "D": "It is a form of spiritual liberation and self-realization"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 386,
+    "question": "Which deity is the primary figure in the Hindu festival of Holi?",
+    "options": {
+      "A": "Krishna",
+      "B": "Shiva",
+      "C": "Vishnu",
+      "D": "Ganesha"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 387,
+    "question": "What is the main idea presented in the Bhagavad Gita?",
+    "options": {
+      "A": "The soul is eternal and beyond birth and death",
+      "B": "The soul is mortal and subject to reincarnation",
+      "C": "The universe is created through rituals",
+      "D": "Material wealth is the ultimate goal of life"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 388,
+    "question": "Which of the following is NOT a part of the Hindu wedding ceremony?",
+    "options": {
+      "A": "Saptapadi",
+      "B": "Kanyadaan",
+      "C": "Pujan",
+      "D": "Bhakti"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 389,
+    "question": "Which of the following is the Hindu concept of righteous living and moral duty?",
+    "options": {
+      "A": "Karma",
+      "B": "Dharma",
+      "C": "Moksha",
+      "D": "Samsara"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 390,
+    "question": "What is the role of a ‘Guru’ in Hinduism?",
+    "options": {
+      "A": "To provide material wealth",
+      "B": "To teach the path to spiritual enlightenment",
+      "C": "To lead political affairs",
+      "D": "To organize religious ceremonies"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 391,
+    "question": "Which of the following Hindu concepts emphasizes the importance of non-violence?",
+    "options": {
+      "A": "Karma",
+      "B": "Dharma",
+      "C": "Ahimsa",
+      "D": "Bhakti"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 392,
+    "question": "Which of the following Hindu texts provides a philosophical and spiritual explanation of the nature of the soul and reality?",
+    "options": {
+      "A": "Ramayana",
+      "B": "Bhagavad Gita",
+      "C": "Puranas",
+      "D": "Yoga Sutras"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 393,
+    "question": "In Hinduism, what is the ultimate goal of practicing ‘Jnana Yoga’?",
+    "options": {
+      "A": "Gaining knowledge for material wealth",
+      "B": "Achieving liberation and self-realization",
+      "C": "The pursuit of political power",
+      "D": "Attaining physical strength"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 394,
+    "question": "Which of the following is associated with the Hindu practice of devotion to a personal deity?",
+    "options": {
+      "A": "Karma Yoga",
+      "B": "Jnana Yoga",
+      "C": "Bhakti Yoga",
+      "D": "Raja Yoga"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 395,
+    "question": "Which Hindu god is considered the god of creation?",
+    "options": {
+      "A": "Vishnu",
+      "B": "Shiva",
+      "C": "Brahma",
+      "D": "Ganesha"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 396,
+    "question": "What is the meaning of the Hindu word ‘Om’?",
+    "options": {
+      "A": "The soul",
+      "B": "The beginning and end of all things",
+      "C": "The name of the Supreme God",
+      "D": "A sacred mantra for prosperity"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 397,
+    "question": "Which Hindu deity is associated with the destruction of ignorance and the creation of new knowledge?",
+    "options": {
+      "A": "Vishnu",
+      "B": "Shiva",
+      "C": "Ganesha",
+      "D": "Lakshmi"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 398,
+    "question": "What is the ultimate goal of life according to Hinduism?",
+    "options": {
+      "A": "Wealth and prosperity",
+      "B": "Moksha (liberation from the cycle of rebirth)",
+      "C": "Political power",
+      "D": "Fame and recognition"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 399,
+    "question": "Which concept in Hinduism refers to the eternal soul or self?",
+    "options": {
+      "A": "Brahman",
+      "B": "Atman",
+      "C": "Karma",
+      "D": "Dharma"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 400,
+    "question": "Which Hindu god is primarily worshipped during the festival of Ganesh Chaturthi?",
+    "options": {
+      "A": "Vishnu",
+      "B": "Ganesha",
+      "C": "Shiva",
+      "D": "Krishna"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 401,
+    "question": "Which of the following is considered one of the four main goals of life (Purusharthas) in Hinduism?",
+    "options": {
+      "A": "Dharma (righteousness)",
+      "B": "Moksha (liberation)",
+      "C": "Artha (prosperity)",
+      "D": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 402,
+    "question": "Which Hindu scripture is dedicated to explaining the philosophy of Vedanta?",
+    "options": {
+      "A": "Vedas",
+      "B": "Upanishads",
+      "C": "Bhagavad Gita",
+      "D": "Ramayana"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 403,
+    "question": "Which Yuga is said to be the most spiritually advanced in Hindu cosmology?",
+    "options": {
+      "A": "Kali Yuga",
+      "B": "Dwapara Yuga",
+      "C": "Treta Yuga",
+      "D": "Satya Yuga"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 404,
+    "question": "What does the term ‘Yajna’ refer to in Hindu rituals?",
+    "options": {
+      "A": "Fasting for spiritual purification",
+      "B": "Offering of sacrifices and offerings to deities",
+      "C": "Reciting the Vedas",
+      "D": "Visiting sacred temples"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 405,
+    "question": "What is the meaning of the term ‘Samsara’ in Hinduism?",
+    "options": {
+      "A": "The path to liberation",
+      "B": "The cycle of birth, death, and rebirth",
+      "C": "The study of sacred texts",
+      "D": "The creation of the universe"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 406,
+    "question": "Which Hindu deity is known as the god of protection and the preserver of the universe?",
+    "options": {
+      "A": "Shiva",
+      "B": "Vishnu",
+      "C": "Brahma",
+      "D": "Indra"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 407,
+    "question": "Which of the following is the central theme of the Bhagavad Gita?",
+    "options": {
+      "A": "Devotion to God",
+      "B": "Renunciation of all worldly goods",
+      "C": "The importance of performing one’s duty selflessly",
+      "D": "The destruction of evil forces"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 408,
+    "question": "What is the name of the Hindu practice that involves chanting sacred sounds or mantras?",
+    "options": {
+      "A": "Yoga",
+      "B": "Meditation",
+      "C": "Japa",
+      "D": "Havan"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 409,
+    "question": "What is the Hindu festival that marks the beginning of the harvest season?",
+    "options": {
+      "A": "Diwali",
+      "B": "Holi",
+      "C": "Makar Sankranti",
+      "D": "Ganesh Chaturthi"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 410,
+    "question": "What does the festival of Diwali celebrate in Hinduism?",
+    "options": {
+      "A": "The victory of Lord Krishna over Kamsa",
+      "B": "The return of Lord Rama to Ayodhya after his exile",
+      "C": "The birth of Lord Ganesha",
+      "D": "The harvest of crops"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 411,
+    "question": "Which Hindu god is associated with the festival of Holi?",
+    "options": {
+      "A": "Vishnu",
+      "B": "Ganesha",
+      "C": "Krishna",
+      "D": "Brahma"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 412,
+    "question": "What is the primary focus of the Hindu festival of Navratri?",
+    "options": {
+      "A": "The worship of Lord Vishnu",
+      "B": "The worship of Goddess Durga",
+      "C": "The celebration of harvest",
+      "D": "The honoring of ancestors"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 413,
+    "question": "Which of the following is a key tradition during the Hindu festival of Raksha Bandhan?",
+    "options": {
+      "A": "Fasting for spiritual growth",
+      "B": "Exchanging gifts and tying a protective thread between siblings",
+      "C": "Offering sacrifices to the gods",
+      "D": "Lighting oil lamps"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 414,
+    "question": "What is the main purpose of fasting during the Hindu festival of Karva Chauth?",
+    "options": {
+      "A": "To cleanse the body",
+      "B": "To celebrate the harvest",
+      "C": "For the well-being and long life of one’s husband",
+      "D": "To honor Lord Ganesha"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 415,
+    "question": "Which of the following is celebrated to honor the goddess Saraswati?",
+    "options": {
+      "A": "Navratri",
+      "B": "Makar Sankranti",
+      "C": "Vasant Panchami",
+      "D": "Diwali"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 416,
+    "question": "What is the focus of the Hindu festival of Ganesh Chaturthi?",
+    "options": {
+      "A": "The worship of Lord Shiva",
+      "B": "The worship of Lord Ganesha",
+      "C": "The honoring of Lord Vishnu",
+      "D": "The celebration of Krishna's birth"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 417,
+    "question": "Which festival marks the victory of good over evil, celebrated with fireworks and lighting lamps?",
+    "options": {
+      "A": "Holi",
+      "B": "Diwali",
+      "C": "Navratri",
+      "D": "Ganesh Chaturthi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 418,
+    "question": "What is the significance of ‘Kumbh Mela’ in Hinduism?",
+    "options": {
+      "A": "Celebrating the harvest",
+      "B": "Fasting and meditation to cleanse the mind",
+      "C": "The pilgrimage to bathe in sacred rivers",
+      "D": "Offering food to the poor"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 419,
+    "question": "Which of the following practices is central to ‘Raja Yoga’?",
+    "options": {
+      "A": "Knowledge of the scriptures",
+      "B": "Physical postures (asanas) and breath control (pranayama)",
+      "C": "Devotion to a deity",
+      "D": "Meditation and self-discipline"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 420,
+    "question": "Which Hindu god is associated with the power of creation?",
+    "options": {
+      "A": "Vishnu",
+      "B": "Brahma",
+      "C": "Shiva",
+      "D": "Ganesha"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 421,
+    "question": "What does the term ‘Prasad’ mean in Hinduism?",
+    "options": {
+      "A": "The sacred text",
+      "B": "The food offering to the gods, later distributed to devotees",
+      "C": "The festival of lights",
+      "D": "The path to liberation"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 422,
+    "question": "Which of the following is considered an important aspect of Hindu ethical teachings?",
+    "options": {
+      "A": "Dharma",
+      "B": "Moksha",
+      "C": "Karma",
+      "D": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 423,
+    "question": "What does the Hindu festival of 'Holi' symbolize?",
+    "options": {
+      "A": "The victory of good over evil",
+      "B": "The creation of the universe",
+      "C": "The harvest season",
+      "D": "The birth of Lord Rama"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 424,
+    "question": "Which of the following texts provides instructions on how to practice Yoga?",
+    "options": {
+      "A": "Vedas",
+      "B": "Bhagavad Gita",
+      "C": "Yoga Sutras of Patanjali",
+      "D": "Ramayana"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 425,
+    "question": "What is ‘Karma’ in Hindu philosophy?",
+    "options": {
+      "A": "Actions and their consequences",
+      "B": "The supreme god",
+      "C": "The cycle of birth and rebirth",
+      "D": "A type of meditation"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 426,
+    "question": "Which of the following is associated with the ‘Nishkama Karma’ principle in the Bhagavad Gita?",
+    "options": {
+      "A": "Acting without attachment to the results",
+      "B": "Accumulating wealth for oneself",
+      "C": "Devotion to a personal deity",
+      "D": "Rejecting all material possessions"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 427,
+    "question": "In Hinduism, what is the meaning of ‘Ahimsa’?",
+    "options": {
+      "A": "Non-violence",
+      "B": "Righteousness",
+      "C": "Knowledge",
+      "D": "Spiritual power"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 428,
+    "question": "Which of the following Hindu practices is associated with seeking liberation from the cycle of rebirth?",
+    "options": {
+      "A": "Yoga",
+      "B": "Karma",
+      "C": "Moksha",
+      "D": "Dharma"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 429,
+    "question": "What is the central practice of ‘Kundalini Yoga’?",
+    "options": {
+      "A": "Deep breathing and meditation to awaken spiritual energy",
+      "B": "Chanting mantras for peace",
+      "C": "Physical postures (asanas) for relaxation",
+      "D": "Offering sacrifices to deities"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 430,
+    "question": "Which of the following describes ‘Bhakti Yoga’?",
+    "options": {
+      "A": "The path of devotion and love for God",
+      "B": "The path of physical fitness",
+      "C": "The path of meditation and silence",
+      "D": "The study of sacred texts"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 431,
+    "question": "What is the meaning of the term ‘Dhyana’ in Hinduism?",
+    "options": {
+      "A": "The practice of meditation for self-realization",
+      "B": "Offering food to deities",
+      "C": "A sacred fire ritual",
+      "D": "The chanting of mantras"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 432,
+    "question": "Which of the following is the ultimate goal of ‘Jnana Yoga’?",
+    "options": {
+      "A": "Knowledge of worldly affairs",
+      "B": "Liberation through knowledge and wisdom",
+      "C": "Accumulation of wealth",
+      "D": "Physical discipline"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 433,
+    "question": "Which Hindu festival involves fasting and prayer for the well-being of husbands?",
+    "options": {
+      "A": "Diwali",
+      "B": "Holi",
+      "C": "Karva Chauth",
+      "D": "Ganesh Chaturthi"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 434,
+    "question": "Which of the following Hindu practices involves devotion to a particular deity, such as Vishnu or Shiva?",
+    "options": {
+      "A": "Karma Yoga",
+      "B": "Jnana Yoga",
+      "C": "Bhakti Yoga",
+      "D": "Raja Yoga"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 435,
+    "question": "Which of the following is a central theme in the ‘Bhagavad Gita’?",
+    "options": {
+      "A": "Attaining material wealth",
+      "B": "Performing one's duties without attachment to the results",
+      "C": "The destruction of the universe",
+      "D": "Political power and leadership"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 436,
+    "question": "What is the significance of the ‘Vedic’ hymns?",
+    "options": {
+      "A": "To honor deities and offer prayers",
+      "B": "To record the history of India",
+      "C": "To provide guidance on political matters",
+      "D": "To promote scientific knowledge"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 437,
+    "question": "In Hinduism, what is ‘Satya’ associated with?",
+    "options": {
+      "A": "The pursuit of wealth",
+      "B": "The pursuit of truth and righteousness",
+      "C": "The pursuit of power",
+      "D": "The cycle of reincarnation"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 438,
+    "question": "Which Hindu god is associated with the protection and preservation of the universe?",
+    "options": {
+      "A": "Vishnu",
+      "B": "Shiva",
+      "C": "Brahma",
+      "D": "Ganesha"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 439,
+    "question": "Which of the following terms refers to the Hindu law of cause and effect?",
+    "options": {
+      "A": "Karma",
+      "B": "Dharma",
+      "C": "Moksha",
+      "D": "Samsara"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 440,
+    "question": "Which concept in Hinduism refers to the rebirth of the soul in a new body?",
+    "options": {
+      "A": "Karma",
+      "B": "Moksha",
+      "C": "Samsara",
+      "D": "Dharma"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 441,
+    "question": "What does the practice of ‘Pranayama’ involve in Hinduism?",
+    "options": {
+      "A": "Breathing exercises to control the flow of life energy",
+      "B": "Reciting sacred mantras",
+      "C": "Meditating on the divine",
+      "D": "Worshipping deities in temples"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 442,
+    "question": "What is ‘Dharma’ in Hinduism?",
+    "options": {
+      "A": "The pursuit of wealth",
+      "B": "The pursuit of truth and righteousness",
+      "C": "The supreme god",
+      "D": "The cycle of reincarnation"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 443,
+    "question": "Which of the following is a core principle in the philosophy of ‘Advaita Vedanta’?",
+    "options": {
+      "A": "The soul is separate from the supreme reality",
+      "B": "The soul and the supreme reality are one",
+      "C": "The material world is an illusion",
+      "D": "Reincarnation is the ultimate goal"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 444,
+    "question": "Which of the following is an essential concept of the ‘Yoga Sutras’?",
+    "options": {
+      "A": "The unity of body and mind through physical postures",
+      "B": "The practice of rituals to honor deities",
+      "C": "The understanding of the philosophy of reincarnation",
+      "D": "The devotion to a personal deity"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 445,
+    "question": "What is the role of ‘Guru’ in Hinduism?",
+    "options": {
+      "A": "To teach political values",
+      "B": "To provide material wealth",
+      "C": "To guide individuals on their spiritual journey",
+      "D": "To lead the community in social matters"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 446,
+    "question": "Which of the following Hindu deities is known for creating the world?",
+    "options": {
+      "A": "Shiva",
+      "B": "Vishnu",
+      "C": "Brahma",
+      "D": "Ganesha"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 447,
+    "question": "Which Hindu text contains the dialogue between Arjuna and Krishna during the battle of Kurukshetra?",
+    "options": {
+      "A": "Bhagavad Gita",
+      "B": "Ramayana",
+      "C": "Upanishads",
+      "D": "Vedas"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 448,
+    "question": "What is the central theme of the ‘Ramayana’?",
+    "options": {
+      "A": "The duties and responsibilities of a king",
+      "B": "The moral journey of Lord Rama and his devotion to duty",
+      "C": "The wisdom of the sages",
+      "D": "The creation of the universe"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 449,
+    "question": "What is the main focus of the festival of ‘Navratri’?",
+    "options": {
+      "A": "The worship of Lord Vishnu",
+      "B": "The worship of Goddess Durga",
+      "C": "The celebration of harvest",
+      "D": "The victory of Lord Rama"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 450,
+    "question": "Which festival marks the victory of good over evil, celebrated by lighting diyas (oil lamps)?",
+    "options": {
+      "A": "Holi",
+      "B": "Diwali",
+      "C": "Ganesh Chaturthi",
+      "D": "Navratri"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 451,
+    "question": "What is the significance of fasting during the Hindu festival of Karva Chauth?",
+    "options": {
+      "A": "To honor ancestors",
+      "B": "To celebrate the harvest season",
+      "C": "For the well-being and long life of one's husband",
+      "D": "To offer food to the poor"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 452,
+    "question": "Which of the following is the primary purpose of the Hindu festival of Holi?",
+    "options": {
+      "A": "To honor Lord Shiva",
+      "B": "To celebrate the victory of Lord Rama",
+      "C": "To mark the arrival of spring and the triumph of good over evil",
+      "D": "To offer prayers for wealth"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 453,
+    "question": "Which festival involves the worship of Lord Ganesha and is celebrated with grand processions?",
+    "options": {
+      "A": "Holi",
+      "B": "Diwali",
+      "C": "Ganesh Chaturthi",
+      "D": "Makar Sankranti"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 454,
+    "question": "What does the festival of Makar Sankranti celebrate in Hinduism?",
+    "options": {
+      "A": "The victory of good over evil",
+      "B": "The harvest season and the movement of the sun into Capricorn",
+      "C": "The return of Lord Rama to Ayodhya",
+      "D": "The creation of the universe"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 455,
+    "question": "Which of the following is a key practice during the festival of ‘Janmashtami’?",
+    "options": {
+      "A": "Fasting and offering prayers to Lord Krishna",
+      "B": "Lighting oil lamps",
+      "C": "Celebrating the harvest",
+      "D": "Singing devotional songs to Lord Vishnu"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 456,
+    "question": "Which Hindu god is honored during the festival of ‘Dussehra’?",
+    "options": {
+      "A": "Vishnu",
+      "B": "Shiva",
+      "C": "Krishna",
+      "D": "Rama"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 457,
+    "question": "What is the main focus of the festival of ‘Baisakhi’?",
+    "options": {
+      "A": "The worship of Lord Krishna",
+      "B": "The harvest and the beginning of the new agricultural season",
+      "C": "The defeat of evil forces",
+      "D": "The worship of Lord Ganesha"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 458,
+    "question": "Which of the following is a practice associated with the festival of ‘Raksha Bandhan’?",
+    "options": {
+      "A": "Fasting for spiritual purity",
+      "B": "Tying a protective thread by sisters for their brothers",
+      "C": "Lighting of diyas to worship Lord Vishnu",
+      "D": "Offering gifts to the poor"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 459,
+    "question": "Which concept in Hinduism refers to selfless action without attachment to the results?",
+    "options": {
+      "A": "Karma Yoga",
+      "B": "Bhakti Yoga",
+      "C": "Jnana Yoga",
+      "D": "Raja Yoga"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 460,
+    "question": "What is the practice of ‘Havan’ in Hindu rituals?",
+    "options": {
+      "A": "A form of prayer and meditation",
+      "B": "Offering food to the gods",
+      "C": "A fire ritual to invoke divine blessings",
+      "D": "The recitation of mantras"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 461,
+    "question": "Which of the following is a principle associated with ‘Jnana Yoga’?",
+    "options": {
+      "A": "Devotion to a personal deity",
+      "B": "The study of sacred texts and gaining knowledge",
+      "C": "Physical discipline through postures",
+      "D": "Fasting for self-purification"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 462,
+    "question": "What is the primary goal of the practice of ‘Raja Yoga’?",
+    "options": {
+      "A": "Selfless service to humanity",
+      "B": "To meditate and control the mind",
+      "C": "To perform rituals for the gods",
+      "D": "To accumulate material wealth"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 463,
+    "question": "Which of the following texts is important in the practice of ‘Yoga’?",
+    "options": {
+      "A": "Vedas",
+      "B": "Bhagavad Gita",
+      "C": "Yoga Sutras of Patanjali",
+      "D": "Ramayana"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 464,
+    "question": "Which of the following is an essential part of the Hindu concept of ‘Dharma’?",
+    "options": {
+      "A": "Performing rituals for prosperity",
+      "B": "Pursuing personal happiness",
+      "C": "Fulfilling one’s moral and ethical duties",
+      "D": "Accumulating wealth"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 465,
+    "question": "What does the Hindu term ‘Prasad’ refer to?",
+    "options": {
+      "A": "The food offering to deities",
+      "B": "The cycle of rebirth",
+      "C": "The path to liberation",
+      "D": "A sacred dance"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 466,
+    "question": "What is the concept of ‘Samsara’ in Hinduism?",
+    "options": {
+      "A": "The eternal soul",
+      "B": "The cycle of birth, death, and rebirth",
+      "C": "The ultimate goal of liberation",
+      "D": "The worship of deities"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 467,
+    "question": "Which of the following is the Hindu practice of devotion through chanting and singing praises?",
+    "options": {
+      "A": "Puja",
+      "B": "Satsang",
+      "C": "Japa",
+      "D": "Meditation"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 468,
+    "question": "What is the ultimate purpose of practicing ‘Moksha’ in Hinduism?",
+    "options": {
+      "A": "To gain wealth and prosperity",
+      "B": "To achieve liberation and union with the divine",
+      "C": "To renounce all material possessions",
+      "D": "To attain fame and recognition"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 469,
+    "question": "Who was the demon king defeated by Lord Rama in the Ramayana?",
+    "options": {
+      "A": "Hiranyakashipu",
+      "B": "Ravana",
+      "C": "Kumbhakarna",
+      "D": "Banasura"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 470,
+    "question": "Who is the divine monkey god who helped Lord Rama in the Ramayana?",
+    "options": {
+      "A": "Bhima",
+      "B": "Hanuman",
+      "C": "Lakshmana",
+      "D": "Indra"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 471,
+    "question": "Which Hindu deity is associated with the churning of the ocean (Samudra Manthan)?",
+    "options": {
+      "A": "Vishnu",
+      "B": "Shiva",
+      "C": "Lakshmi",
+      "D": "Indra"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 472,
+    "question": "What was the primary purpose of Lord Krishna’s incarnation on Earth?",
+    "options": {
+      "A": "To destroy the evil demon",
+      "B": "To guide Arjuna in the Mahabharata",
+      "C": "To bring peace to the world",
+      "D": "To restore the sun god’s power"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 473,
+    "question": "Who was Lord Ganesha’s mother?",
+    "options": {
+      "A": "Saraswati",
+      "B": "Durga",
+      "C": "Parvati",
+      "D": "Lakshmi"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 474,
+    "question": "Which demon did Lord Vishnu defeat in his Narasimha avatar?",
+    "options": {
+      "A": "Ravana",
+      "B": "Kamsa",
+      "C": "Hiranyakashipu",
+      "D": "Mahishasura"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 475,
+    "question": "What was the name of the bird that Lord Vishnu used to rescue the Vedas?",
+    "options": {
+      "A": "Garuda",
+      "B": "Jatayu",
+      "C": "Vultures",
+      "D": "Eagle"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 476,
+    "question": "In Hindu mythology, who turned into a golden deer to distract Sita?",
+    "options": {
+      "A": "Ravana",
+      "B": "Surpanakha",
+      "C": "Maricha",
+      "D": "Indra"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 477,
+    "question": "Who is credited with composing the Shiva Tandava Stotra?",
+    "options": {
+      "A": "Lord Rama",
+      "B": "Ravana",
+      "C": "Vishnu",
+      "D": "Hanuman"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 478,
+    "question": "Who are the parents of Lord Rama?",
+    "options": {
+      "A": "Vishnu and Lakshmi",
+      "B": "Dasharatha and Kaushalya",
+      "C": "Shiva and Parvati",
+      "D": "Brahma and Saraswati"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 479,
+    "question": "What is the Hindu caste system based on?",
+    "options": {
+      "A": "Birth and occupation",
+      "B": "Age and wisdom",
+      "C": "Gender and power",
+      "D": "Wealth and land"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 480,
+    "question": "Which is the highest caste in the traditional Hindu caste system?",
+    "options": {
+      "A": "Shudra",
+      "B": "Vaishya",
+      "C": "Kshatriya",
+      "D": "Brahmin"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 481,
+    "question": "What is the role of the Kshatriya caste?",
+    "options": {
+      "A": "Teaching and religious duties",
+      "B": "Farming and trade",
+      "C": "Ruling and protecting the land",
+      "D": "Performing rituals for the gods"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 482,
+    "question": "Which of the following was considered the lowest caste in traditional Hindu society?",
+    "options": {
+      "A": "Vaishya",
+      "B": "Brahmin",
+      "C": "Shudra",
+      "D": "Dalit"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 483,
+    "question": "What is the role of the Vaishya caste in Hindu society?",
+    "options": {
+      "A": "Religious practices",
+      "B": "Trading and business",
+      "C": "Farming",
+      "D": "Military service"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 484,
+    "question": "In Hinduism, what is the concept of ‘Untouchability’ historically linked to?",
+    "options": {
+      "A": "Caste and purity",
+      "B": "Social status and wealth",
+      "C": "Knowledge and wisdom",
+      "D": "Physical strength"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 485,
+    "question": "Which Hindu scripture is said to contain the laws of caste duties?",
+    "options": {
+      "A": "Ramayana",
+      "B": "Vedas",
+      "C": "Manusmriti",
+      "D": "Upanishads"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 486,
+    "question": "What is the term for the spiritual teacher in the Hindu caste system?",
+    "options": {
+      "A": "Guru",
+      "B": "Brahmin",
+      "C": "Swami",
+      "D": "Acharya"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 487,
+    "question": "Which caste traditionally performed the work of teaching in Hindu society?",
+    "options": {
+      "A": "Brahmin",
+      "B": "Kshatriya",
+      "C": "Vaishya",
+      "D": "Shudra"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 488,
+    "question": "What is the purpose of the caste system in Hindu society, according to traditional belief?",
+    "options": {
+      "A": "To maintain order and harmony",
+      "B": "To distinguish between rulers and workers",
+      "C": "To segregate wealth",
+      "D": "To promote different religious practices"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 489,
+    "question": "What is the first stage of life in the Four Ashramas in Hinduism?",
+    "options": {
+      "A": "Grihastha",
+      "B": "Brahmacharya",
+      "C": "Sannyasa",
+      "D": "Vanaprastha"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 490,
+    "question": "Which of the following best describes the ‘Grihastha’ stage of life in Hinduism?",
+    "options": {
+      "A": "Renouncing worldly life",
+      "B": "Pursuing education and discipline",
+      "C": "Focusing on family and material responsibilities",
+      "D": "Seeking enlightenment through meditation"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 491,
+    "question": "Which stage in the Four Ashramas is focused on retirement and spiritual contemplation?",
+    "options": {
+      "A": "Grihastha",
+      "B": "Brahmacharya",
+      "C": "Vanaprastha",
+      "D": "Sannyasa"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 492,
+    "question": "Which of the Four Ashramas represents the stage of renunciation and seeking liberation?",
+    "options": {
+      "A": "Sannyasa",
+      "B": "Brahmacharya",
+      "C": "Grihastha",
+      "D": "Vanaprastha"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 493,
+    "question": "What is the ideal goal of the ‘Brahmacharya’ stage in Hinduism?",
+    "options": {
+      "A": "Marriage and family life",
+      "B": "Retirement and contemplation",
+      "C": "Seeking material wealth",
+      "D": "Education and self-discipline"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 494,
+    "question": "In the Four Ashramas, what is the ultimate goal of the ‘Sannyasa’ stage?",
+    "options": {
+      "A": "Service to the community",
+      "B": "Liberation from the cycle of rebirth",
+      "C": "Raising children",
+      "D": "Accumulating wealth"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 495,
+    "question": "Which stage of the Four Ashramas involves the pursuit of worldly pleasures and responsibilities?",
+    "options": {
+      "A": "Brahmacharya",
+      "B": "Grihastha",
+      "C": "Sannyasa",
+      "D": "Vanaprastha"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 496,
+    "question": "Which of the Four Ashramas represents a life devoted entirely to meditation and renunciation of worldly attachments?",
+    "options": {
+      "A": "Brahmacharya",
+      "B": "Vanaprastha",
+      "C": "Sannyasa",
+      "D": "Grihastha"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 497,
+    "question": "At what stage of life should a person ideally retire from family life and live in a forest according to Hinduism?",
+    "options": {
+      "A": "Brahmacharya",
+      "B": "Sannyasa",
+      "C": "Vanaprastha",
+      "D": "Grihastha"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 498,
+    "question": "Which stage in the Four Ashramas is considered a period of study, learning, and spiritual discipline?",
+    "options": {
+      "A": "Brahmacharya",
+      "B": "Grihastha",
+      "C": "Sannyasa",
+      "D": "Vanaprastha"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 499,
+    "question": "Which Hindu text lays out the duties and ethical guidelines for daily life?",
+    "options": {
+      "A": "Bhagavad Gita",
+      "B": "Vedas",
+      "C": "Manusmriti",
+      "D": "Ramayana"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 500,
+    "question": "What does ‘Ahimsa’ mean in Hindu ethics?",
+    "options": {
+      "A": "Compassion for all living beings",
+      "B": "Non-violence",
+      "C": "Truthfulness",
+      "D": "Selflessness"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 501,
+    "question": "Which Hindu text provides guidelines for rulers and kings in terms of ethical and moral conduct?",
+    "options": {
+      "A": "Manusmriti",
+      "B": "Mahabharata",
+      "C": "Yoga Sutras",
+      "D": "Ramayana"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 502,
+    "question": "Which of the following is considered an ethical duty in Hinduism?",
+    "options": {
+      "A": "To earn wealth",
+      "B": "To live in complete isolation",
+      "C": "To fulfill one's duties based on caste",
+      "D": "To ignore social responsibilities"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 503,
+    "question": "In Hinduism, which ethical value is emphasized for achieving spiritual liberation?",
+    "options": {
+      "A": "Material wealth",
+      "B": "Detachment and non-attachment",
+      "C": "Political success",
+      "D": "Religious rituals"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 504,
+    "question": "What is the Hindu concept of ‘Karma’ primarily focused on?",
+    "options": {
+      "A": "Knowledge of the self",
+      "B": "Actions and their consequences",
+      "C": "Physical fitness",
+      "D": "The attainment of wealth"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 505,
+    "question": "Which of the following ethical principles emphasizes living truthfully in Hinduism?",
+    "options": {
+      "A": "Ahimsa",
+      "B": "Satya",
+      "C": "Tapas",
+      "D": "Dana"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 506,
+    "question": "In Hinduism, what is the term for spiritual discipline and self-control over the senses?",
+    "options": {
+      "A": "Karma",
+      "B": "Jnana",
+      "C": "Tapas",
+      "D": "Bhakti"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 507,
+    "question": "Which Hindu concept advocates for kindness and not causing harm to any living being?",
+    "options": {
+      "A": "Satyagraha",
+      "B": "Ahimsa",
+      "C": "Moksha",
+      "D": "Dharma"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 508,
+    "question": "Which of the following Hindu practices is linked to the moral value of ‘Dana’?",
+    "options": {
+      "A": "Fasting for purification",
+      "B": "Donating to those in need",
+      "C": "Worshipping at temples",
+      "D": "Seeking knowledge through scriptures"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 509,
+    "question": "Who founded the Brahmo Samaj, a reform movement in Hinduism?",
+    "options": {
+      "A": "Swami Vivekananda",
+      "B": "Raja Ram Mohan Roy",
+      "C": "Dayananda Saraswati",
+      "D": "Aurobindo Ghose"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 510,
+    "question": "Which Hindu reform movement emphasized the return to Vedic teachings and opposed idol worship?",
+    "options": {
+      "A": "Arya Samaj",
+      "B": "Ramakrishna Mission",
+      "C": "Brahmo Samaj",
+      "D": "Theosophical Society"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 511,
+    "question": "Who is known for his teachings on the unity of all religions and promoting the idea of self-realization?",
+    "options": {
+      "A": "Swami Vivekananda",
+      "B": "Mahatma Gandhi",
+      "C": "Aurobindo Ghose",
+      "D": "Ramakrishna Paramahamsa"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 512,
+    "question": "Which Hindu reformer was known for his contribution to the revival of Hinduism through the reform of religious practices?",
+    "options": {
+      "A": "Swami Vivekananda",
+      "B": "Dayananda Saraswati",
+      "C": "Aurobindo Ghose",
+      "D": "Sri Sri Ravi Shankar"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 513,
+    "question": "Which of the following Hindu reformers believed in the equality of all people and opposed the caste system?",
+    "options": {
+      "A": "Raja Ram Mohan Roy",
+      "B": "Swami Vivekananda",
+      "C": "Mahatma Gandhi",
+      "D": "B.R. Ambedkar"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 514,
+    "question": "Which reform movement in Hinduism was led by Swami Vivekananda in the late 19th century?",
+    "options": {
+      "A": "Arya Samaj",
+      "B": "Brahmo Samaj",
+      "C": "Ramakrishna Mission",
+      "D": "Theosophical Society"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 515,
+    "question": "What was the main teaching of the Arya Samaj founded by Dayananda Saraswati?",
+    "options": {
+      "A": "Reformation of caste",
+      "B": "Revival of Vedic values",
+      "C": "Establishment of temples",
+      "D": "Acceptance of Buddhism"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 516,
+    "question": "Which Hindu philosopher advocated for the need for scientific understanding in religious teachings?",
+    "options": {
+      "A": "Raja Ram Mohan Roy",
+      "B": "Swami Vivekananda",
+      "C": "Dayananda Saraswati",
+      "D": "Aurobindo Ghose"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 517,
+    "question": "Which movement focused on uplifting the untouchables and promoting social justice in Hinduism?",
+    "options": {
+      "A": "Arya Samaj",
+      "B": "Bhakti Movement",
+      "C": "Dalit Movement",
+      "D": "Ramakrishna Mission"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 518,
+    "question": "Which Hindu reformer was instrumental in promoting the idea of a universal religion that transcended sectarian boundaries?",
+    "options": {
+      "A": "Swami Vivekananda",
+      "B": "Raja Ram Mohan Roy",
+      "C": "Mahatma Gandhi",
+      "D": "Aurobindo Ghose"
+    },
+    "answer": "A"
+  }
+]
