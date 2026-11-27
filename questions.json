@@ -5696,5 +5696,907 @@
       "D": "Aurobindo Ghose"
     },
     "answer": "A"
+  },
+  {
+    "id": 519,
+    "question": "By what other names is Sant Dnyaneshwar commonly known?",
+    "options": {
+      "A": "Dnyandev and Mauli",
+      "B": "Samarth and Das",
+      "C": "Jagad Guru and Shankara",
+      "D": "Tuka and Vithoba"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 520,
+    "question": "Sant Dnyaneshwar belonged to which century?",
+    "options": {
+      "A": "10th century",
+      "B": "13th century",
+      "C": "16th century",
+      "D": "18th century"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 521,
+    "question": "What was the name of Dnyaneshwar's guru?",
+    "options": {
+      "A": "Ramdas",
+      "B": "Tukaram",
+      "C": "Nivruttinath",
+      "D": "Govinda Bhagavadpada"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 522,
+    "question": "Nivruttinath was related to Dnyaneshwar as his:",
+    "options": {
+      "A": "Father",
+      "B": "Elder brother",
+      "C": "Son",
+      "D": "Disciple"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 523,
+    "question": "Which work is Dnyaneshwar especially known for as a Marathi commentary on the Bhagavad Gita?",
+    "options": {
+      "A": "Dasbodh",
+      "B": "Amrutanubhava",
+      "C": "Manache Shlok",
+      "D": "Dnyaneshwari"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 524,
+    "question": "In which language was the Dnyaneshwari composed?",
+    "options": {
+      "A": "Marathi",
+      "B": "Sanskrit",
+      "C": "Hindi",
+      "D": "Kannada"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 525,
+    "question": "Which poetic metre is associated with the Dnyaneshwari?",
+    "options": {
+      "A": "Doha",
+      "B": "Ovi",
+      "C": "Abhanga",
+      "D": "Shloka"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 526,
+    "question": "In which year was the Dnyaneshwari composed, according to the study material?",
+    "options": {
+      "A": "1275",
+      "B": "1290",
+      "C": "1296",
+      "D": "1305"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 527,
+    "question": "Which other philosophical work is attributed to Sant Dnyaneshwar?",
+    "options": {
+      "A": "Dasbodh",
+      "B": "Amrutanubhava",
+      "C": "Bhamati",
+      "D": "Asmani Sultani"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 528,
+    "question": "What is the central request expressed in the Pasaydan?",
+    "options": {
+      "A": "Victory in battle",
+      "B": "Personal wealth",
+      "C": "Welfare and happiness of all humanity",
+      "D": "Establishment of a kingdom"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 529,
+    "question": "At what age did Dnyaneshwar attain Sanjeevan Samadhi, according to the material?",
+    "options": {
+      "A": "16",
+      "B": "18",
+      "C": "21",
+      "D": "32"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 530,
+    "question": "What does the title 'Mauli' mean?",
+    "options": {
+      "A": "Teacher",
+      "B": "Mother",
+      "C": "Warrior",
+      "D": "Scholar"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 531,
+    "question": "Saint Tukaram is identified in the study material as a saint of which century?",
+    "options": {
+      "A": "13th",
+      "B": "15th",
+      "C": "17th",
+      "D": "19th"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 532,
+    "question": "Saint Tukaram is associated with which devotional tradition in Maharashtra?",
+    "options": {
+      "A": "Varkari",
+      "B": "Sufi",
+      "C": "Zen",
+      "D": "Advaita monastery"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 533,
+    "question": "What is the name of the devotional poetry form associated with Tukaram?",
+    "options": {
+      "A": "Ovi only",
+      "B": "Abhanga",
+      "C": "Doha",
+      "D": "Vachana"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 534,
+    "question": "Which deity is central to Tukaram's devotion?",
+    "options": {
+      "A": "Vitthala/Vithoba",
+      "B": "Surya",
+      "C": "Hanuman",
+      "D": "Saraswati"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 535,
+    "question": "Pandharpur is especially associated with the pilgrimage of devotees during which months/festivals mentioned in the material?",
+    "options": {
+      "A": "Chaitra and Ashwin",
+      "B": "Aashadh and Kartik",
+      "C": "Magh and Phalgun",
+      "D": "Shravan and Bhadrapad"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 536,
+    "question": "Which saintly quality is emphasized in Tukaram's teachings as binding society together?",
+    "options": {
+      "A": "Competition",
+      "B": "Love",
+      "C": "Wealth",
+      "D": "Status"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 537,
+    "question": "According to the takeaways, Tukaram emphasized earning money through:",
+    "options": {
+      "A": "Any available means",
+      "B": "Honest means",
+      "C": "Borrowing",
+      "D": "Trading only"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 538,
+    "question": "Tukaram's teachings are described as centering on good thought, impeccable deportment and:",
+    "options": {
+      "A": "Equality",
+      "B": "Political power",
+      "C": "Ritual complexity",
+      "D": "Social rank"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 539,
+    "question": "Which social concern is highlighted as a major takeaway from Tukaram's life?",
+    "options": {
+      "A": "Uplifting the downtrodden",
+      "B": "Building forts",
+      "C": "Military training",
+      "D": "Court administration"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 540,
+    "question": "How many accompanists are mentioned in the study material as accompanying Tukaram's kirtan?",
+    "options": {
+      "A": "Eight",
+      "B": "Ten",
+      "C": "Fourteen",
+      "D": "Twenty"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 541,
+    "question": "Which instrument is specifically associated with Sonba Thakur accompanying Tukaram?",
+    "options": {
+      "A": "Tabla",
+      "B": "Mridang",
+      "C": "Veena",
+      "D": "Flute"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 542,
+    "question": "The study material says Tukaram's teachings aimed to do away with differences and:",
+    "options": {
+      "A": "Discrimination",
+      "B": "Education",
+      "C": "Community worship",
+      "D": "Devotional poetry"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 543,
+    "question": "What was the birth name of Samarth Ramdas?",
+    "options": {
+      "A": "Narayan Suryaji Thosar",
+      "B": "Vishwanath Datta",
+      "C": "Shankara",
+      "D": "Dnyandev"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 544,
+    "question": "Samarth Ramdas was born in which village, according to the material?",
+    "options": {
+      "A": "Apegaon",
+      "B": "Jamb",
+      "C": "Kalady",
+      "D": "Dehu"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 545,
+    "question": "Samarth Ramdas is described as a noted saint and spiritual poet of which century?",
+    "options": {
+      "A": "13th",
+      "B": "15th",
+      "C": "17th",
+      "D": "19th"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 546,
+    "question": "Which two deities are especially associated with Ramdas's devotion?",
+    "options": {
+      "A": "Shiva and Vishnu",
+      "B": "Rama and Hanuman",
+      "C": "Vitthala and Krishna",
+      "D": "Brahma and Saraswati"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 547,
+    "question": "Which text by Samarth Ramdas is described as a guide for meaningful living?",
+    "options": {
+      "A": "Dnyaneshwari",
+      "B": "Dasbodh",
+      "C": "Amrutanubhava",
+      "D": "Bhamati"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 548,
+    "question": "How many verses does Manache Shlok comprise?",
+    "options": {
+      "A": "108",
+      "B": "150",
+      "C": "205",
+      "D": "700"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 549,
+    "question": "What does the word 'Manache' mean in the title Manache Shlok?",
+    "options": {
+      "A": "For the mind",
+      "B": "For the body",
+      "C": "For society",
+      "D": "For the teacher"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 550,
+    "question": "Manache Shlok mainly gives guidelines to the mind about being peaceful and:",
+    "options": {
+      "A": "Wealthy",
+      "B": "Ethical in behaviour",
+      "C": "Politically active",
+      "D": "Famous"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 551,
+    "question": "Which work by Ramdas is a poem in praise of Hanuman?",
+    "options": {
+      "A": "Maruti Stotra",
+      "B": "Pasaydan",
+      "C": "Amrutanubhava",
+      "D": "Dnyaneshwari"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 552,
+    "question": "How many female disciples are mentioned in the study material?",
+    "options": {
+      "A": "8",
+      "B": "12",
+      "C": "18",
+      "D": "24"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 553,
+    "question": "Who managed the study centre at Miraj?",
+    "options": {
+      "A": "Akkabai",
+      "B": "Vennabai",
+      "C": "Ubhaya Bharati",
+      "D": "Mateshwari"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 554,
+    "question": "Which pair of centres is associated with Akkabai's management?",
+    "options": {
+      "A": "Miraj and Dehu",
+      "B": "Chafal and Sajjangad",
+      "C": "Kalady and Sringeri",
+      "D": "Puri and Dwaraka"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 555,
+    "question": "Adi Shankaracharya is especially known as an exponent of which philosophy?",
+    "options": {
+      "A": "Dvaita Vedanta",
+      "B": "Advaita Vedanta",
+      "C": "Charvaka",
+      "D": "Mimamsa"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 556,
+    "question": "What title meaning 'World Teacher' is associated with Adi Shankaracharya?",
+    "options": {
+      "A": "Mauli",
+      "B": "Jagad Guru",
+      "C": "Samarth",
+      "D": "Dnyandev"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 557,
+    "question": "Where was Adi Shankaracharya born, according to the study material?",
+    "options": {
+      "A": "Dehu, Maharashtra",
+      "B": "Kalady, Kerala",
+      "C": "Jamb, Maharashtra",
+      "D": "Apegaon, Maharashtra"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 558,
+    "question": "What were the names of Adi Shankaracharya's parents?",
+    "options": {
+      "A": "Suryaji and Ranubai",
+      "B": "Shiva Guru and Aryamba",
+      "C": "Vishwanath and Bhuvaneshwari",
+      "D": "Nivrutti and Rukmini"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 559,
+    "question": "At what age did Shankara become a wandering monk, according to the account?",
+    "options": {
+      "A": "Five",
+      "B": "Eight",
+      "C": "Eleven",
+      "D": "Sixteen"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 560,
+    "question": "Who was Shankara's guru?",
+    "options": {
+      "A": "Nivruttinath",
+      "B": "Govinda Bhagavadpada",
+      "C": "Mandana Mishra",
+      "D": "Padmapada"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 561,
+    "question": "Which set of texts is referred to as Prasthanatraya in the material?",
+    "options": {
+      "A": "Four Vedas, six Vedangas and Puranas",
+      "B": "Major Upanishads, Brahma Sutras and Bhagavad Gita",
+      "C": "Ramayana, Mahabharata and Puranas",
+      "D": "Dasbodh, Dnyaneshwari and Amrutanubhava"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 562,
+    "question": "Who judged the debate between Shankara and Mandana Mishra?",
+    "options": {
+      "A": "Mateshwari Jagdamba",
+      "B": "Ubhaya Bharati",
+      "C": "Vennabai",
+      "D": "Akkabai"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 563,
+    "question": "How long did the debate between Shankara and Mandana Mishra continue?",
+    "options": {
+      "A": "Seven days",
+      "B": "Ten days",
+      "C": "Fifteen days",
+      "D": "Thirty days"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 564,
+    "question": "What name did Mandana Mishra take after becoming Shankara's disciple?",
+    "options": {
+      "A": "Padmapada",
+      "B": "Sureshwaracharya",
+      "C": "Totakacharya",
+      "D": "Hastamalaka"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 565,
+    "question": "How many maths did Shankara establish in the four corners of India?",
+    "options": {
+      "A": "Two",
+      "B": "Three",
+      "C": "Four",
+      "D": "Five"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 566,
+    "question": "Which phrase is given in the study material as a summary of Advaita Vedanta?",
+    "options": {
+      "A": "Vasudhaiva Kutumbakam",
+      "B": "Brahma Sathyam Jagan Mithya, Jeevo Brahmaiva Na Aparaha",
+      "C": "Satyameva Jayate",
+      "D": "Ahimsa Paramo Dharma"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 567,
+    "question": "Who conceived the modern World Parliament of Science, Religion and Philosophy initiative at MIT-WPU?",
+    "options": {
+      "A": "Swami Vivekananda",
+      "B": "Prof. Dr. Vishwanath D. Karad",
+      "C": "Albert Einstein",
+      "D": "Sant Tukaram"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 568,
+    "question": "The modern World Parliament initiative was inspired by which historic event?",
+    "options": {
+      "A": "Chicago World Parliament of Religions, 1893",
+      "B": "United Nations founding, 1945",
+      "C": "Paris Conference, 1900",
+      "D": "World Science Congress, 1960"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 569,
+    "question": "The modern World Parliament seeks to bring together which three domains?",
+    "options": {
+      "A": "Politics, trade and law",
+      "B": "Science, religion and philosophy",
+      "C": "Art, sport and literature",
+      "D": "Medicine, engineering and commerce"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 570,
+    "question": "In which year was the World Peace Centre at MIT, Pune founded, according to the study material?",
+    "options": {
+      "A": "1986",
+      "B": "1990",
+      "C": "1996",
+      "D": "2001"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 571,
+    "question": "What is a central aim of the World Parliament initiative?",
+    "options": {
+      "A": "Promoting one religion",
+      "B": "Education for Peace",
+      "C": "Replacing scientific inquiry",
+      "D": "Promoting competition"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 572,
+    "question": "Which place near Loni Kalbhor is described as a centre for spiritual learning and interfaith dialogue?",
+    "options": {
+      "A": "Vishwaraj Baug / Vishwashanti Ashram",
+      "B": "Kalady",
+      "C": "Sajjangad",
+      "D": "Pandharpur"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 573,
+    "question": "The Rameshwar Rui example from 2011 describes communities coming together to rebuild which places?",
+    "options": {
+      "A": "A mosque and a temple",
+      "B": "A university and a library",
+      "C": "A fort and a palace",
+      "D": "A school and a hospital"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 574,
+    "question": "The World Peace Dome is presented primarily as a symbol of:",
+    "options": {
+      "A": "Military strength",
+      "B": "Interfaith harmony and unity",
+      "C": "Economic development",
+      "D": "Political authority"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 575,
+    "question": "The World Peace Prayer Hall is named after which saint?",
+    "options": {
+      "A": "Saint Tukaram",
+      "B": "Philosopher Saint Shri Dnyaneshwara",
+      "C": "Samarth Ramdas",
+      "D": "Adi Shankaracharya"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 576,
+    "question": "Approximately how many people can the World Peace Prayer Hall accommodate?",
+    "options": {
+      "A": "500",
+      "B": "1,000",
+      "C": "3,000",
+      "D": "5,000"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 577,
+    "question": "What is depicted inside the prayer hall to interact with natural light?",
+    "options": {
+      "A": "A map of India",
+      "B": "An image of sunrise",
+      "C": "A galaxy chart",
+      "D": "A river scene"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 578,
+    "question": "What is housed below the World Peace Prayer Hall?",
+    "options": {
+      "A": "A sports arena",
+      "B": "World Peace Library",
+      "C": "A medical college",
+      "D": "A museum of technology"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 579,
+    "question": "The concept 'Pilgrimage Centres are Divine Knowledge Centres' emphasizes pilgrimage places as spaces for:",
+    "options": {
+      "A": "Only commercial activity",
+      "B": "Spiritual learning and knowledge",
+      "C": "Military training",
+      "D": "Political campaigning"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 580,
+    "question": "Value-based education places importance on academic learning together with:",
+    "options": {
+      "A": "Character, ethics and social responsibility",
+      "B": "Competition alone",
+      "C": "Material success alone",
+      "D": "Memorization without reflection"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 581,
+    "question": "Which sequence is given as the traditional stages of learning?",
+    "options": {
+      "A": "Dhyana, Karma, Bhakti",
+      "B": "Shravana, Manana, Nididhyasana",
+      "C": "Yama, Niyama, Asana",
+      "D": "Jnana, Artha, Kama"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 582,
+    "question": "What does Shravana mean in the learning sequence?",
+    "options": {
+      "A": "Deep listening",
+      "B": "Contemplation",
+      "C": "Meditation",
+      "D": "Debate"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 583,
+    "question": "What does Manana refer to?",
+    "options": {
+      "A": "Physical exercise",
+      "B": "Contemplation or reflection",
+      "C": "Silent chanting",
+      "D": "Reading aloud only"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 584,
+    "question": "Which combination best reflects the holistic development emphasized in value-based education?",
+    "options": {
+      "A": "Physical, intellectual and spiritual",
+      "B": "Financial, political and military",
+      "C": "Commercial, industrial and technological",
+      "D": "Competitive, personal and national"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 585,
+    "question": "In Vedic traditions, AUM is described as:",
+    "options": {
+      "A": "A sacred syllable",
+      "B": "A mathematical theorem",
+      "C": "A historical dynasty",
+      "D": "A meditation centre"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 586,
+    "question": "Which sound component of AUM symbolizes the beginning?",
+    "options": {
+      "A": "A",
+      "B": "U",
+      "C": "M",
+      "D": "None"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 587,
+    "question": "Which sound component of AUM symbolizes continuation?",
+    "options": {
+      "A": "A",
+      "B": "U",
+      "C": "M",
+      "D": "All three equally"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 588,
+    "question": "Which sound component of AUM symbolizes the end?",
+    "options": {
+      "A": "A",
+      "B": "U",
+      "C": "M",
+      "D": "None"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 589,
+    "question": "Who is associated with the equation E = MC²?",
+    "options": {
+      "A": "Isaac Newton",
+      "B": "Albert Einstein",
+      "C": "Galileo Galilei",
+      "D": "Niels Bohr"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 590,
+    "question": "Vipassana meditation is rooted in which tradition?",
+    "options": {
+      "A": "Buddhism",
+      "B": "Taoism",
+      "C": "Sufism",
+      "D": "Zen only"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 591,
+    "question": "Which practice is commonly used in Vipassana to anchor awareness in the present?",
+    "options": {
+      "A": "Body scan and awareness of breathing",
+      "B": "Silent mantra repetition only",
+      "C": "Candle gazing only",
+      "D": "Energy circulation through meridians"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 592,
+    "question": "Transcendental Meditation was introduced by:",
+    "options": {
+      "A": "Maharishi Mahesh Yogi",
+      "B": "Shree Mataji Nirmala Devi",
+      "C": "Prajapita Brahma",
+      "D": "Swami Ramdas"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 593,
+    "question": "Transcendental Meditation involves silent repetition of a mantra for approximately:",
+    "options": {
+      "A": "5 minutes once a week",
+      "B": "15–20 minutes twice daily",
+      "C": "One hour once a month",
+      "D": "30 minutes once a week"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 594,
+    "question": "Zen meditation is also known as:",
+    "options": {
+      "A": "Muraqabah",
+      "B": "Zazen",
+      "C": "Trataka",
+      "D": "Yoga Nidra"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 595,
+    "question": "Taoist meditation includes which technique?",
+    "options": {
+      "A": "Microcosmic Orbit",
+      "B": "Pasaydan",
+      "C": "Manache Shlok",
+      "D": "Nididhyasana"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 596,
+    "question": "Trataka meditation involves focusing on:",
+    "options": {
+      "A": "A single point or object such as a candle flame",
+      "B": "A mantra while walking",
+      "C": "The body's meridians",
+      "D": "A guided body scan while lying down"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 597,
+    "question": "Yoga Nidra is commonly described as:",
+    "options": {
+      "A": "Gazing meditation",
+      "B": "Yogic sleep",
+      "C": "Sound meditation",
+      "D": "Mantra repetition"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 598,
+    "question": "Who developed Sahaja Yoga Meditation in 1970, according to the material?",
+    "options": {
+      "A": "Maharishi Mahesh Yogi",
+      "B": "Shree Mataji Nirmala Devi",
+      "C": "Dadi Janki",
+      "D": "Mateshwari Jagdamba"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 599,
+    "question": "Which four practices are identified as the core practices of Heartfulness?",
+    "options": {
+      "A": "Relaxation, Meditation, Cleaning, Inner Connect",
+      "B": "Shravana, Manana, Nididhyasana, Samadhi",
+      "C": "Prayer, fasting, chanting, pilgrimage",
+      "D": "Posture, fasting, debate, study"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 600,
+    "question": "What are the five steps listed for beginning Rajyoga Meditation?",
+    "options": {
+      "A": "Relaxation, Concentration, Contemplation, Realisation, Meditation",
+      "B": "Listening, chanting, fasting, prayer, service",
+      "C": "Posture, breathing, running, rest, sleep",
+      "D": "Study, debate, writing, teaching, testing"
+    },
+    "answer": "A"
   }
 ]
